@@ -20,8 +20,9 @@
 -->
 <resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://ofbiz.apache.org/dtds/ofbiz-properties.xsd">
 
-    <property key="">
-        <value xml:lang=""></value>
+    <property key="BritTitle">
+        <value xml:lang="en">Global free automatic translation SNS</value>
+        <value xml:lang="ko">글로벌 무료 자동번역 SNS</value>
     </property>
     <property key="">
         <value xml:lang=""></value>
