@@ -19,6 +19,20 @@
     under the License.
 -->
 <resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://ofbiz.apache.org/dtds/ofbiz-properties.xsd">
+
+    <property key="">
+        <value xml:lang=""></value>
+    </property>
+    <property key="">
+        <value xml:lang=""></value>
+    </property>
+    <property key="">
+        <value xml:lang=""></value>
+    </property>
+
+
+
+
     <property key="EcommerceAboutUs">
         <value xml:lang="en">About Us</value>
         <value xml:lang="fr">A propos</value>

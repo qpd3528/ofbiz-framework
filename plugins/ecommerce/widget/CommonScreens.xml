@@ -165,7 +165,7 @@ under the License.
                             <container id="header">
                                 <platform-specific><html><html-template location="${headerTemplateLocation}"/></html></platform-specific>
                             </container>
-                            <container id="ecom-mainarea" style="row mx-2">
+                            <container id="ecom-mainarea" style="row">
                                 <section>
                                     <condition>
                                         <not><if-empty-section section-name="left-column"/></not>
@@ -408,6 +408,36 @@ under the License.
     </screen>
 
     <!-- Top Level Screens -->
+<!--    <screen name="main">-->
+<!--        <section>-->
+<!--            <actions>-->
+<!--                <set field="MainColumnStyle" value="center"/>-->
+
+<!--                <set field="titleProperty" value="PageTitleMain"/>-->
+<!--                <set field="headerItem" value="main"/>-->
+<!--                <set field="randomSurveyGroup" value="testSurveyGroup"/>-->
+
+<!--                <script location="component://ecommerce/groovyScripts/Main.groovy"/>-->
+<!--                <script location="component://order/groovyScripts/entry/catalog/Category.groovy"/>-->
+<!--            </actions>-->
+<!--            <widgets>-->
+<!--                <decorator-screen name="main-decorator" location="${parameters.mainDecoratorLocation}">-->
+<!--                    <decorator-section name="left-column">-->
+<!--                        <include-screen name="leftbar"/>-->
+<!--                    </decorator-section>-->
+<!--                    <decorator-section name="body">-->
+<!--                        <platform-specific>-->
+<!--                            <html><html-template location="component://ecommerce/template/Main.ftl"/></html>-->
+<!--                        </platform-specific>-->
+<!--                    </decorator-section>-->
+<!--                    <decorator-section name="right-column">-->
+<!--                        <include-screen name="rightbar"/>-->
+<!--                    </decorator-section>-->
+<!--                </decorator-screen>-->
+<!--            </widgets>-->
+<!--        </section>-->
+<!--    </screen>-->
+
     <screen name="main">
         <section>
             <actions>
@@ -422,17 +452,18 @@ under the License.
             </actions>
             <widgets>
                 <decorator-screen name="main-decorator" location="${parameters.mainDecoratorLocation}">
-                    <decorator-section name="left-column">
-                        <include-screen name="leftbar"/>
-                    </decorator-section>
+<!--                    <decorator-section name="left-column">-->
+<!--                        <include-screen name="leftbar"/>-->
+<!--                    </decorator-section>-->
                     <decorator-section name="body">
                         <platform-specific>
-                            <html><html-template location="component://ecommerce/template/Main.ftl"/></html>
+                            <html><html-template location="component://ecommerce/template/brit/Main.ftl"/></html>
                         </platform-specific>
+
                     </decorator-section>
-                    <decorator-section name="right-column">
-                        <include-screen name="rightbar"/>
-                    </decorator-section>
+<!--                    <decorator-section name="right-column">-->
+<!--                        <include-screen name="rightbar"/>-->
+<!--                    </decorator-section>-->
                 </decorator-screen>
             </widgets>
         </section>

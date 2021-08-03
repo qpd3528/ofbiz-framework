@@ -107,23 +107,44 @@ $(document).ready(function() {
         <li class="nav-item">
           <a class="nav-link" href="<@ofbizUrl>messagelist</@ofbizUrl>">${uiLabelMap.CommonMessages}</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="<@ofbizUrl>ListQuotes</@ofbizUrl>">${uiLabelMap.OrderOrderQuotes}</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="<@ofbizUrl>ListRequests</@ofbizUrl>">${uiLabelMap.OrderRequests}</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="<@ofbizUrl>editShoppingList</@ofbizUrl>">${uiLabelMap.EcommerceShoppingLists}</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="<@ofbizUrl>orderhistory</@ofbizUrl>">${uiLabelMap.EcommerceOrderHistory}</a>
-        </li>
+<#--        <li class="nav-item">-->
+<#--          <a class="nav-link" href="<@ofbizUrl>ListQuotes</@ofbizUrl>">${uiLabelMap.OrderOrderQuotes}</a>-->
+<#--        </li>-->
+<#--        <li class="nav-item">-->
+<#--          <a class="nav-link" href="<@ofbizUrl>ListRequests</@ofbizUrl>">${uiLabelMap.OrderRequests}</a>-->
+<#--        </li>-->
+<#--        <li class="nav-item">-->
+<#--          <a class="nav-link" href="<@ofbizUrl>editShoppingList</@ofbizUrl>">${uiLabelMap.EcommerceShoppingLists}</a>-->
+<#--        </li>-->
+<#--        <li class="nav-item">-->
+<#--          <a class="nav-link" href="<@ofbizUrl>orderhistory</@ofbizUrl>">${uiLabelMap.EcommerceOrderHistory}</a>-->
+<#--        </li>-->
       </#if>
-      <#if catalogQuickaddUse>
-        <li class="nav-item"><a class="nav-link" href="<@ofbizUrl>quickadd</@ofbizUrl>">${uiLabelMap.CommonQuickAdd}</a></li>
-      </#if>
+<#--      <#if catalogQuickaddUse>-->
+<#--        <li class="nav-item"><a class="nav-link" href="<@ofbizUrl>quickadd</@ofbizUrl>">${uiLabelMap.CommonQuickAdd}</a></li>-->
+<#--      </#if>-->
     </ul>
+      <ul class="navbar-nav w-100px">
+          <li class="nav-item">
+              <form method="post" name="chooseLanguage" action="<@ofbizUrl>setSessionLocale</@ofbizUrl>">
+                  <select name="newLocale" class="selectBox form-control ecommerce-language" onchange="submit()">
+                      <#assign availableLocales = Static["org.apache.ofbiz.base.util.UtilMisc"].availableLocales()/>
+                      <#list availableLocales as availableLocale>
+                          <#assign langAttr = availableLocale.toString()?replace("_", "-")>
+                          <#assign langDir = "ltr">
+                          <#if "ar.iw"?contains(langAttr?substring(0, 2))>
+                              <#assign langDir = "rtl">
+                          </#if>
+                          <option lang="${langAttr}" dir="${langDir}"
+                                  value="${availableLocale.toString()}"<#if locale.toString() = availableLocale.toString()>
+                              selected="selected"</#if>>
+                              ${availableLocale.getDisplayName(availableLocale)}
+                          </option>
+                      </#list>
+                  </select>
+              </form>
+          </li>
+      </ul>
   </div>
 </nav>
 
