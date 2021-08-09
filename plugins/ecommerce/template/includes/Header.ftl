@@ -127,7 +127,7 @@ $(document).ready(function() {
       <ul class="navbar-nav w-100px">
           <li class="nav-item">
               <form method="post" name="chooseLanguage" action="<@ofbizUrl>setSessionLocale</@ofbizUrl>">
-                  <select name="newLocale" class="selectBox form-control ecommerce-language" onchange="submit()">
+                  <select name="newLocale" class="selectBox form-control" onchange="submit()">
                       <#assign availableLocales = Static["org.apache.ofbiz.base.util.UtilMisc"].availableLocales()/>
                       <#list availableLocales as availableLocale>
                           <#assign langAttr = availableLocale.toString()?replace("_", "-")>
