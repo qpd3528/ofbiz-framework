@@ -21,9 +21,9 @@ under the License.
     <div class="wrap">
         <img src="/images/main_phone.png" class="phone">
         <div class="txt">
-            <p class="sub1">${uiLabelMap.BritTitle}</p>
-            <h2 class="ttb">BRIT</h2>
-            <p class="sub2">어학공부, 여행, 사업, 출장 등 번역이 필요한 모든 순간 브릿!<br>언어장벽이 높아 답답했던 SNS 활동을 즐겨보세요!<br><br><span class="ttb">전 세계 사람들과 소통</span>할 수 있는 브릿 :)</p>
+            <p class="sub1">${uiLabelMap.BritSubTitle_1}</p>
+            <h2 class="ttb">${uiLabelMap.BritTitle}</h2>
+            <p class="sub2">${uiLabelMap.BritSubTitle_2}<br>${uiLabelMap.BritSubTitle_3}<br><br><span class="ttb">${uiLabelMap.BritSubTitle_4}</span></p>
 
             <div class="down">
                 <a href="https://play.google.com/store/apps/details?id=com.ndsoft.brit" target="_blank"><img src="/images/google.png"></a>
@@ -56,7 +56,7 @@ under the License.
 
             <div class="box box1">
                 <p class="titTxt"><b><span>커뮤니티</span><br>그룹에<br>참여하세요!</b></p>
-                <p class="subTxt">내 관심사에 대해 의견을<br>나눌 수 있는 커뮤니티를 만들어보세요.<br><br>원하는 커뮤니티를 찾아<br>즐길수도 있습니다.<br><br>브릿과 함께할 <br>언어의 장벽은 없습니다!</p>
+                <p class="subTxt">내 관심사에 대해 의견을<br>나눌 수 있는 커뮤니티를 만들어보세요.<br><br>원하는 커뮤니티를 찾아<br>즐길수도 있습니다.<br><br>브릿과 함께할 때<br>언어의 장벽은 없습니다!</p>
             </div><!--box1-->
         </div><!--con-->
 
