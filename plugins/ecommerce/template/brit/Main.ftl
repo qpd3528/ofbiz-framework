@@ -21,9 +21,9 @@ under the License.
     <div class="wrap">
         <img src="/images/main_phone.png" class="phone">
         <div class="txt">
-            <p class="sub1">${uiLabelMap.BritSubTitle_1}</p>
+            <p class="sub1">${uiLabelMap.BritSub_1}</p>
             <h2 class="ttb">${uiLabelMap.BritTitle}</h2>
-            <p class="sub2">${uiLabelMap.BritSubTitle_2}<br>${uiLabelMap.BritSubTitle_3}<br><br><span class="ttb">${uiLabelMap.BritSubTitle_4}</span></p>
+            <p class="sub2">${uiLabelMap.BritSub_2}<br>${uiLabelMap.BritSub_3}<br><br><span class="ttb">${uiLabelMap.BritSub_4}</span></p>
 
             <div class="down">
                 <a href="https://play.google.com/store/apps/details?id=com.ndsoft.brit" target="_blank"><img src="/images/google.png"></a>
