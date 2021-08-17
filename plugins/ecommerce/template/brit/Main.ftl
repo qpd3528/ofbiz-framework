@@ -40,15 +40,15 @@ under the License.
 
         <div class="con pc">
             <div class="box box1">
-                <p class="titTxt"><b><span>${uiLabelMap.HistorySub1_1}</span><br>${uiLabelMap.HistorySub1_2}<br>${uiLabelMap.HistorySub1_3}</b></p>
-                <p class="subTxt">${uiLabelMap.HistorySub1_4}<br>${uiLabelMap.HistorySub1_5}<br><br>${uiLabelMap.HistorySub1_6}<br>${uiLabelMap.HistorySub1_7}<br><br>${uiLabelMap.HistorySub1_8}<br>${uiLabelMap.HistorySub1_9}</p>
+                <p class="titTxt"><b><span>${uiLabelMap.HistorySub1_1}</span></b></p>
+                <p class="subTxt">${uiLabelMap.HistorySub1_2}<br><br>${uiLabelMap.HistorySub1_3}<br><br>${uiLabelMap.HistorySub1_4}</p>
             </div><!--box1-->
 
             <div class="box box2">
             </div><!--box1-->
 
             <div class="box box3">
-                <p class="subTxt"><b class="big">${uiLabelMap.HistorySub2_1}</b><br><br>${uiLabelMap.HistorySub2_2}<br>${uiLabelMap.HistorySub2_3}<br><br>${uiLabelMap.HistorySub2_4}<br>${uiLabelMap.HistorySub2_5}<br>${uiLabelMap.HistorySub2_6}<br><br>${uiLabelMap.HistorySub2_7}<br>${uiLabelMap.HistorySub2_8}</p>
+                <p class="subTxt"><b class="big">${uiLabelMap.HistorySub2_1}</b><br><br>${uiLabelMap.HistorySub2_2}<br>${uiLabelMap.HistorySub2_3}<br><br>${uiLabelMap.HistorySub2_4}<br>${uiLabelMap.HistorySub2_5}<br>${uiLabelMap.HistorySub2_6}</p>
             </div><!--box1-->
 
             <div class="box box6">
