@@ -228,32 +228,6 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="HistorySub2_7">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="HistorySub2_8">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
     <property key="HistorySub3_1">
         <value xml:lang="ko"></value>
         <value xml:lang="en"></value>
@@ -319,58 +293,6 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="HistorySub3_6">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="HistorySub3_7">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="HistorySub3_8">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="HistorySub3_9">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
     <property key="ReviewTitle_1">
         <value xml:lang="ko">브릿을 즐기기 위한 다양한 기능</value>
         <value xml:lang="en">Various features to enjoy a brit</value>
@@ -423,32 +345,6 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="ReviewSub1_3">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="ReviewSub1_4">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
     <property key="ReviewSub2_1">
         <value xml:lang="ko"></value>
         <value xml:lang="en"></value>
@@ -463,32 +359,6 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="ReviewSub2_2">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="ReviewSub2_3">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="ReviewSub2_4">
         <value xml:lang="ko"></value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
@@ -527,32 +397,6 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="ReviewSub3_3">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="ReviewSub3_4">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
     <property key="ReviewSub4_1">
         <value xml:lang="ko"></value>
         <value xml:lang="en"></value>
@@ -579,46 +423,7 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="ReviewSub4_3">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="ReviewSub4_4">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
     <property key="FnTitle_1">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="FnTitle_2">
         <value xml:lang="ko"></value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
@@ -657,32 +462,6 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="FnSub1_3">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="FnSub1_4">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
     <property key="FnSub2_1">
         <value xml:lang="ko">간단함</value>
         <value xml:lang="en">Simplicity</value>
@@ -697,32 +476,6 @@
         <value xml:lang="sv">Enkelhet</value>
     </property>
     <property key="FnSub2_2">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="FnSub2_3">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="FnSub2_4">
         <value xml:lang="ko"></value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
@@ -761,32 +514,6 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="FnSub3_3">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="FnSub3_4">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
     <property key="FnSub4_1">
         <value xml:lang="ko">다양함</value>
         <value xml:lang="en">Diverse</value>
@@ -801,32 +528,6 @@
         <value xml:lang="sv">Olika</value>
     </property>
     <property key="FnSub4_2">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="FnSub4_3">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="FnSub4_4">
         <value xml:lang="ko"></value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
@@ -865,32 +566,6 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="FnSub5_3">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="FnSub5_4">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
     <property key="FnSub6_1">
         <value xml:lang="ko">개인화</value>
         <value xml:lang="en">Personalization</value>
@@ -905,32 +580,6 @@
         <value xml:lang="sv">Personalisering</value>
     </property>
     <property key="FnSub6_2">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="FnSub6_3">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
-        <value xml:lang="de"></value>
-        <value xml:lang="ja"></value>
-        <value xml:lang="it"></value>
-        <value xml:lang="zh"></value>
-        <value xml:lang="ru"></value>
-        <value xml:lang="vi"></value>
-        <value xml:lang="fr"></value>
-        <value xml:lang="mn"></value>
-        <value xml:lang="sv"></value>
-    </property>
-    <property key="FnSub6_4">
         <value xml:lang="ko"></value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>

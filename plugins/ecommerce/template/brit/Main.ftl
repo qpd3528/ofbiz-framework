@@ -55,8 +55,8 @@ under the License.
             </div><!--box1-->
 
             <div class="box box1">
-                <p class="titTxt"><b><span>${uiLabelMap.HistorySub3_1}</span><br>${uiLabelMap.HistorySub3_2}<br>${uiLabelMap.HistorySub3_3}</b></p>
-                <p class="subTxt">${uiLabelMap.HistorySub3_4}<br>${uiLabelMap.HistorySub3_5}<br><br>${uiLabelMap.HistorySub3_6}<br>${uiLabelMap.HistorySub3_7}<br><br>${uiLabelMap.HistorySub3_8}<br>${uiLabelMap.HistorySub3_9}</p>
+                <p class="titTxt"><b><span>${uiLabelMap.HistorySub3_1}</span><br>${uiLabelMap.HistorySub3_2}</b></p>
+                <p class="subTxt">${uiLabelMap.HistorySub3_3}<br>${uiLabelMap.HistorySub3_4}<br><br>${uiLabelMap.HistorySub3_5}</p>
             </div><!--box1-->
         </div><!--con-->
 
@@ -88,26 +88,26 @@ under the License.
             <ul>
                 <li>
                     <img src="/images/re_01.png">
-                    <b class="tit">${uiLabelMap.ReviewSub1_1}<br>${uiLabelMap.ReviewSub1_2}</b>
-                    <p class="txt">${uiLabelMap.ReviewSub1_3}<br>${uiLabelMap.ReviewSub1_4}</p>
+                    <b class="tit">${uiLabelMap.ReviewSub1_1}</b>
+                    <p class="txt">${uiLabelMap.ReviewSub1_2}</p>
                 </li>
 
                 <li>
                     <img src="/images/re_02.png">
-                    <b class="tit">${uiLabelMap.ReviewSub2_1}<br>${uiLabelMap.ReviewSub2_2}</b>
-                    <p class="txt">${uiLabelMap.ReviewSub2_3}<br>${uiLabelMap.ReviewSub2_4}</p>
+                    <b class="tit">${uiLabelMap.ReviewSub2_1}</b>
+                    <p class="txt">${uiLabelMap.ReviewSub2_2}</p>
                 </li>
 
                 <li>
                     <img src="/images/re_03.png">
-                    <b class="tit">${uiLabelMap.ReviewSub3_1}<br>${uiLabelMap.ReviewSub3_2}</b>
-                    <p class="txt">${uiLabelMap.ReviewSub3_3}<br>${uiLabelMap.ReviewSub3_4}</p>
+                    <b class="tit">${uiLabelMap.ReviewSub3_1}</b>
+                    <p class="txt">${uiLabelMap.ReviewSub3_2}</p>
                 </li>
 
                 <li>
                     <img src="/images/re_04.png">
-                    <b class="tit">${uiLabelMap.ReviewSub4_1}<br>${uiLabelMap.ReviewSub4_2}</b>
-                    <p class="txt">${uiLabelMap.ReviewSub4_3}<br>${uiLabelMap.ReviewSub4_4}</p>
+                    <b class="tit">${uiLabelMap.ReviewSub4_1}</b>
+                    <p class="txt">${uiLabelMap.ReviewSub4_2}</p>
                 </li>
             </ul>
         </div><!--reviewList-->
@@ -118,7 +118,7 @@ under the License.
 <div class="fn">
     <div class="wrap">
         <div class="tit">
-            <h4><b>${uiLabelMap.FnTitle_1}<br>${uiLabelMap.FnTitle_2}</b></h4>
+            <h4><b>${uiLabelMap.FnTitle_1}</b></h4>
         </div><!--tit-->
 
         <div class="con">
@@ -126,32 +126,32 @@ under the License.
                 <li>
                     <img src="/images/con_01.png">
                     <b>${uiLabelMap.FnSub1_1}</b>
-                    <p>${uiLabelMap.FnSub1_2}<br>${uiLabelMap.FnSub1_3}<br>${uiLabelMap.FnSub1_4}</p>
+                    <p>${uiLabelMap.FnSub1_2}</p>
                 </li><!--1-->
                 <li>
                     <img src="/images/con_02.png">
                     <b>${uiLabelMap.FnSub2_1}</b>
-                    <p>${uiLabelMap.FnSub2_2}<br>${uiLabelMap.FnSub2_3}<br>${uiLabelMap.FnSub2_4}</p>
+                    <p>${uiLabelMap.FnSub2_2}</p>
                 </li><!--2-->
                 <li>
                     <img src="/images/con_03.png">
                     <b>${uiLabelMap.FnSub3_1}</b>
-                    <p>${uiLabelMap.FnSub3_2}<br>${uiLabelMap.FnSub3_3}<br>${uiLabelMap.FnSub3_4}</p>
+                    <p>${uiLabelMap.FnSub3_2}</p>
                 </li><!--3-->
                 <li>
                     <img src="/images/con_04.png">
                     <b>${uiLabelMap.FnSub4_1}</b>
-                    <p>${uiLabelMap.FnSub4_2}<br>${uiLabelMap.FnSub4_3}<br>${uiLabelMap.FnSub4_4}</p>
+                    <p>${uiLabelMap.FnSub4_2}</p>
                 </li><!--4-->
                 <li>
                     <img src="/images/con_05.png">
                     <b>${uiLabelMap.FnSub5_1}</b>
-                    <p>${uiLabelMap.FnSub5_2}<br>${uiLabelMap.FnSub5_3}<br>${uiLabelMap.FnSub5_4}</p>
+                    <p>${uiLabelMap.FnSub5_2}</p>
                 </li><!--5-->
                 <li>
                     <img src="/images/con_06.png">
                     <b>${uiLabelMap.FnSub6_1}</b>
-                    <p>${uiLabelMap.FnSub6_2}<br>${uiLabelMap.FnSub6_3}<br>${uiLabelMap.FnSub6_4}</p>
+                    <p>${uiLabelMap.FnSub6_2}</p>
                 </li><!--6-->
             </ul>
         </div><!--con-->
