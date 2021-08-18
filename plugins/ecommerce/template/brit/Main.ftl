@@ -48,7 +48,7 @@ under the License.
             </div><!--box1-->
 
             <div class="box box3">
-                <p class="subTxt"><b class="big">${uiLabelMap.HistorySub2_1}</b><br><br>${uiLabelMap.HistorySub2_2}<br>${uiLabelMap.HistorySub2_3}<br><br>${uiLabelMap.HistorySub2_4}<br>${uiLabelMap.HistorySub2_5}<br>${uiLabelMap.HistorySub2_6}</p>
+                <p class="subTxt"><b class="big">${uiLabelMap.HistorySub2_1}</b><br><br>${uiLabelMap.HistorySub2_2}<br>${uiLabelMap.HistorySub2_3}<br><br>${uiLabelMap.HistorySub2_4}<br>${uiLabelMap.HistorySub2_5}<br><br>${uiLabelMap.HistorySub2_6}</p>
             </div><!--box1-->
 
             <div class="box box6">
@@ -56,7 +56,7 @@ under the License.
 
             <div class="box box1">
                 <p class="titTxt"><b><span>${uiLabelMap.HistorySub3_1}</span><br>${uiLabelMap.HistorySub3_2}</b></p>
-                <p class="subTxt">${uiLabelMap.HistorySub3_3}<br>${uiLabelMap.HistorySub3_4}<br><br>${uiLabelMap.HistorySub3_5}</p>
+                <p class="subTxt">${uiLabelMap.HistorySub3_3}<br><br>${uiLabelMap.HistorySub3_4}<br><br>${uiLabelMap.HistorySub3_5}</p>
             </div><!--box1-->
         </div><!--con-->
 
