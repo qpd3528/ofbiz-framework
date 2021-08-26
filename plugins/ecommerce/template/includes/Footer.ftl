@@ -36,8 +36,19 @@ under the License.
     </div>
     <div>Powered by <a href="//ofbiz.apache.org">Apache OFBiz</a></div>
   </div>
+<#--  <div class="p-2">-->
+<#--    <div><a href="<@ofbizUrl>policies</@ofbizUrl>">${uiLabelMap.EcommerceSeeStorePoliciesHere}</a></div>-->
+<#--  </div>-->
   <div class="p-2">
-    <div><a href="<@ofbizUrl>policies</@ofbizUrl>">${uiLabelMap.EcommerceSeeStorePoliciesHere}</a></div>
-  </div>
+    <div class="p-01">
+      <div><a href="<@ofbizUrl>termsOfService</@ofbizUrl>">${uiLabelMap.TermsOfService}</a></div>
+    </div>
+    <div class="p-01">
+      <div><a href="<@ofbizUrl>termsOfLocationBasedService</@ofbizUrl>">${uiLabelMap.TermsOfLocationBasedService}</a></div>
+    </div>
+    <div class="p-01">
+      <div><a href="<@ofbizUrl>privacyPolicy</@ofbizUrl>">${uiLabelMap.PrivacyPolicy}</a></div>
+    </div>
+    </div>
 </div>
 </div>

@@ -17,13 +17,3 @@ specific language governing permissions and limitations
 under the License.
 -->
 
-<div class="header">
-    <div class="wrap">
-        <h1><a href="#top"><img src="./img/logo_01.png"></a></h1>
-        <div class="menu">
-            <a href="#" class="headMnu hMnu_ hMnu_down" id="menu1">소개</a>
-            <a href="#" class="headMnu hMnu_guide" id="menu2">다양한 기능</a>
-            <a href="#" class="headMnu hMnu_qna" id="menu3">간단한 특징</a>
-        </div><!--menu-->
-    </div><!--wrap-->
-</div><!--header-->

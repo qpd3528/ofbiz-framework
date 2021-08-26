@@ -1888,6 +1888,18 @@ under the License.
 
     <!-- End of Request Mappings -->
 
+    <!-- Brit Request -->
+    <request-map uri="termsOfService"><security https="false" auth="false"/><response name="success" type="view" value="termsOfService"/></request-map>
+    <request-map uri="termsOfLocationBasedService"><security https="false" auth="false"/><response name="success" type="view" value="termsOfLocationBasedService"/></request-map>
+    <request-map uri="privacyPolicy"><security https="false" auth="false"/><response name="success" type="view" value="privacyPolicy"/></request-map>
+
+
+    <!-- Brit View -->
+    <view-map name="termsOfService" type="screen" page="component://ecommerce/widget/CommonScreens.xml#termsOfService"/>
+    <view-map name="termsOfLocationBasedService" type="screen" page="component://ecommerce/widget/CommonScreens.xml#termsOfLocationBasedService"/>
+    <view-map name="privacyPolicy" type="screen" page="component://ecommerce/widget/CommonScreens.xml#privacyPolicy"/>
+
+
     <!-- View Mappings -->
     <view-map name="error" type="ftl" page="component://common/webcommon/error/Error.ftl"/>
     <view-map name="main" type="screen" page="component://ecommerce/widget/CommonScreens.xml#main"/>
