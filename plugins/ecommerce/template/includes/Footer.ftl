@@ -21,20 +21,32 @@ under the License.
 
 <div class="footer-block">
 <div class="d-flex justify-content-between">
-  <div class="p-2">
-    <a href="//jigsaw.w3.org/css-validator/">
-      <img style="border:0;width:88px;height:31px" src="<@ofbizContentUrl>/images/vcss.gif</@ofbizContentUrl>" alt="Valid CSS!"/>
-    </a>
-    <a href="//validator.w3.org/check?uri=referer">
-      <img src="<@ofbizContentUrl>/images/valid-xhtml10.png</@ofbizContentUrl>" alt="Valid XHTML 1.0!"/>
-    </a>
-  </div>
-  <div class="p-2 text-center">
-    <a href="//ofbiz.apache.org">${uiLabelMap.EcommerceAboutUs}</a>
-    <div>Copyright &copy; 2001-${nowTimestamp?string("yyyy")} The Apache Software Foundation -
-      <a href="//www.apache.org">www.apache.org</a>
+<#--  <div class="p-2">-->
+<#--    <a href="//jigsaw.w3.org/css-validator/">-->
+<#--      <img style="border:0;width:88px;height:31px" src="<@ofbizContentUrl>/images/vcss.gif</@ofbizContentUrl>" alt="Valid CSS!"/>-->
+<#--    </a>-->
+<#--    <a href="//validator.w3.org/check?uri=referer">-->
+<#--      <img src="<@ofbizContentUrl>/images/valid-xhtml10.png</@ofbizContentUrl>" alt="Valid XHTML 1.0!"/>-->
+<#--    </a>-->
+<#--  </div>-->
+<#--  <div class="p-2 text-center">-->
+<#--    <a hr ef="//ofbiz.apache.org">${uiLabelMap.EcommerceAboutUs}</a>-->
+<#--    <div>Copyright &copy; 2001-${nowTimestamp?string("yyyy")} The Apache Software Foundation --->
+<#--      <a href="//www.apache.org">www.apache.org</a>-->
+<#--    </div>-->
+<#--    <div>Powered by <a href="//ofbiz.apache.org">Apache OFBiz</a></div>-->
+<#--  </div>-->
+  <div class="p-2 w-500px">
+    <div class="wrap">
+      <p class="ttl m-0">
+        <span>${uiLabelMap.Footer_1}</span><span>${uiLabelMap.Footer_2}</span>
+        <span>${uiLabelMap.Footer_3}</span>
+      </p>
+
+      <p class="ttl m-0">${uiLabelMap.Footer_4}</p>
+      <p class="ttl m-0">${uiLabelMap.Footer_5}</p>
+      <p class="ttl m-0">${uiLabelMap.Footer_6}</p>
     </div>
-    <div>Powered by <a href="//ofbiz.apache.org">Apache OFBiz</a></div>
   </div>
 <#--  <div class="p-2">-->
 <#--    <div><a href="<@ofbizUrl>policies</@ofbizUrl>">${uiLabelMap.EcommerceSeeStorePoliciesHere}</a></div>-->
