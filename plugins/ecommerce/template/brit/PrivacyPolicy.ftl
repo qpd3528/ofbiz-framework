@@ -44,6 +44,7 @@ under the License.
                         <li>${uiLabelMap.PrivacyPolicy_1_1_1_5}</li>
                         <li>${uiLabelMap.PrivacyPolicy_1_1_1_6}</li>
                         <li>${uiLabelMap.PrivacyPolicy_1_1_1_7}</li>
+                        <li>${uiLabelMap.PrivacyPolicy_1_1_1_8}</li>
                     </ul>
                 </li>
                 <li>${uiLabelMap.PrivacyPolicy_1_1_2}
@@ -55,6 +56,7 @@ under the License.
                         <li>${uiLabelMap.PrivacyPolicy_1_1_2_5}</li>
                         <li>${uiLabelMap.PrivacyPolicy_1_1_2_6}</li>
                         <li>${uiLabelMap.PrivacyPolicy_1_1_2_7}</li>
+                        <li>${uiLabelMap.PrivacyPolicy_1_1_2_8}</li>
                     </ul>
                 </li>
                 <li>${uiLabelMap.PrivacyPolicy_1_1_3}

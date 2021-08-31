@@ -2939,10 +2939,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_2_1">
-        <value xml:lang="ko">1. 본 약관은 서비스를 신청한 고객 또는 개인위치정보주체가 본 약관에 동의하고 회
-            사가 정한 소정의 절차에 따라 서비스의 이용자로 등록함으로써 효력이 발생합
-            니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">1. 본 약관은 서비스를 신청한 고객 또는 개인위치정보주체가 본 약관에 동의하고 회사가 정한 소정의 절차에 따라 서비스의 이용자로 등록함으로써 효력이 발생합니다.</value>
+        <value xml:lang="en">1. This agreement will be effective when the company register the members who request the service or agree on the terms as users.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -2954,9 +2952,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_2_2">
-        <value xml:lang="ko">2. 회원이 온라인에서 본 약관의 "동의하기" 버튼을 클릭하였을 경우 본 약관의 내용
-            을 모두 읽고 이를 충분히 이해하였으며, 그 적용에 동의한 것으로 봅니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">2. 회원이 온라인에서 본 약관의 "동의하기" 버튼을 클릭하였을 경우 본 약관의 내용을 모두 읽고 이를 충분히 이해하였으며, 그 적용에 동의한 것으로 봅니다.</value>
+        <value xml:lang="en">2. If the member click "Agree" button after reading the terms, it is meaning that they fully understand what they say and also agree on them.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -2968,10 +2965,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_2_3">
-        <value xml:lang="ko">3. 회사는 위치정보의 보호 및 이용 등에 관한 법률, 콘텐츠산업 진흥법, 전자상거래
-            등에서의 소비자보호에 관한 법률, 소비자기본법 약관의 규제에 관한 법률 등 관
-            련법령을 위배하지 않는 범위에서 본 약관을 개정할 수 있습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">3. 회사는 위치정보의 보호 및 이용 등에 관한 법률, 콘텐츠산업 진흥법, 전자상거래등에서의 소비자보호에 관한 법률, 소비자기본법 약관의 규제에 관한 법률 등 관련법령을 위배하지 않는 범위에서 본 약관을 개정할 수 있습니다.</value>
+        <value xml:lang="en">3. The company is able to amend the terms following the Act on the protection and use of location information, the Contents Industry Promotion Act, the Law on Consumer Protection in Electronic Commerce, and the Law on Basic Law for the regulation of consumer agreement.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -2983,13 +2978,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_2_4">
-        <value xml:lang="ko">4. 회사가 약관을 개정할 경우에는 기존약관과 개정약관 및 개정약관의 적용일자와
-            개정사유를 명시하여 현행약관과 함께 그 적용일자 10일 전부터 적용일 이후 상
-            당한 기간 동안 공지만을 하고, 개정 내용이 회원에게 불리한 경우에는 그 적용일
-            자 30일 전부터 적용일 이후 상당한 기간 동안 각각 이를 서비스 홈페이지에 게시
-            하거나 회원에게 전자적 형태(전자우편, SMS 등)로 약관 개정 사실을 발송하여
-            고지합니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">4. 회사가 약관을 개정할 경우에는 기존약관과 개정약관 및 개정약관의 적용일자와 개정사유를 명시하여 현행약관과 함께 그 적용일자 10일 전부터 적용일 이후 상당한 기간 동안 공지만을 하고, 개정 내용이 회원에게 불리한 경우에는 그 적용일자 30일 전부터 적용일 이후 상당한 기간 동안 각각 이를 서비스 홈페이지에 게시하거나 회원에게 전자적 형태(전자우편, SMS 등)로 약관 개정 사실을 발송하여 고지합니다.</value>
+        <value xml:lang="en">4. If the company amends the agreement, it should give 10 day notification with attaching old version including effective date and the reason. However, if the amendment is against the members' favor, 30 day notification should be posted in the website and the amended terms should be sent out to the members via e-mail or SMS.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3001,11 +2991,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_2_5">
-        <value xml:lang="ko">5회사가 전항에 따라 회원에게 통지하면서 공지 또는 공지·고지일로부터 개정약관
-            시행일 7일 후까지 거부의사를 표시하지 아니하면 이용약관에 승인한 것으로 봅
-            니다. 회원이 개정약관에 동의하지 않을 경우 회원은 이용계약을 해지할 수 있습
-            니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">5. 회사가 전항에 따라 회원에게 통지하면서 공지 또는 공지·고지일로부터 개정약관 시행일 7일 후까지 거부의사를 표시하지 아니하면 이용약관에 승인한 것으로 봅니다. 회원이 개정약관에 동의하지 않을 경우 회원은 이용계약을 해지할 수 있습니다.</value>
+        <value xml:lang="en">5. When the cases in ④ happen, no refusal or complaints coming from the users for 7 days after the posting will be recognized as an approval from them. In addition, if the member does not agree on this, the company can terminate the contract.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3030,9 +3017,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_3_a">
-        <value xml:lang="ko">본 약관은 신의성실의 원칙에 따라 공정하게 적용하며, 본
-            약관에 명시되지 아니한 사항에 대하여는 관계법령 또는 상관례에 따릅니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">본 약관은 신의성실의 원칙에 따라 공정하게 적용하며, 본 약관에 명시되지 아니한 사항에 대하여는 관계법령 또는 상관례에 따릅니다.</value>
+        <value xml:lang="en">This Agreement shall apply the process in accordance with the principle of good faith. The matters not specified in it will follow the applicable laws and regulations or commercial practices.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3058,7 +3044,7 @@
     </property>
     <property key="TermsOfLocationBasedService_4_a">
         <value xml:lang="ko">회사가 제공하는 서비스는 아래와 같습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="en">The service provided by the Company is in the below table</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3148,9 +3134,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_5_1">
-        <value xml:lang="ko">1. 회사가 제공하는 서비스는 기본적으로 무료입니다. 단, 별도의 유료 서비스의 경
-            우 해당 서비스에 명시된 요금을 지불하여야 사용 가능합니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">1. 회사가 제공하는 서비스는 기본적으로 무료입니다. 단, 별도의 유료 서비스의 경우 해당 서비스에 명시된 요금을 지불하여야 사용 가능합니다.</value>
+        <value xml:lang="en">1. The service is basically free. However, in the case of charged service of separated menu can be used after paying the indicated price in it.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3164,7 +3149,7 @@
     <property key="TermsOfLocationBasedService_5_2">
         <value xml:lang="ko">2. 회사는 유료 서비스 이용요금을 회사와 계약한 전자지불업체에서 정한 방법에 의
             하거나 회사가 정한 청구서에 합산하여 청구할 수 있습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="en">2. The company can charge the members with summing bills established by the way of electronic payment companies that are connected to it or by its own way.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3176,9 +3161,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_5_3">
-        <value xml:lang="ko">3. 유료서비스 이용을 통하여 결제된 대금에 대한 취소 및 환불은 회사의 결제 이용
-            약관 등 관계법에 따릅니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">3. 유료서비스 이용을 통하여 결제된 대금에 대한 취소 및 환불은 회사의 결제 이용약관 등 관계법에 따릅니다.</value>
+        <value xml:lang="en">3. Cancellation and Refund of the charged service is subject to the terms and conditions of such laws.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3190,9 +3174,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_5_4">
-        <value xml:lang="ko">4. 회원의 개인정보도용 및 결제사기로 인한 환불요청 또는 결제자의 개인정보 요구
-            는 법률이 정한 경우 외에는 거절될 수 있습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">4. 회원의 개인정보도용 및 결제사기로 인한 환불요청 또는 결제자의 개인정보 요구는 법률이 정한 경우 외에는 거절될 수 있습니다.</value>
+        <value xml:lang="en">4. Refund request of the suspected fraud payment and request of payer's personal information might be refused unless it is prescribed by law</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3204,9 +3187,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_5_5">
-        <value xml:lang="ko">5. 무선 서비스 이용 시 발생하는 데이터 통신료는 별도이며 가입한 각 이동통신사의
-            정책에 따릅니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">5. 무선 서비스 이용 시 발생하는 데이터 통신료는 별도이며 가입한 각 이동통신사의 정책에 따릅니다.</value>
+        <value xml:lang="en">5. Data communication fee generated when the members use the service is subject to the policies of each carrier company.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3218,9 +3200,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_5_6">
-        <value xml:lang="ko">6. MMS 등으로 게시물을 등록할 경우 발생하는 요금은 이동통신사의 정책에 따릅
-            니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">6. MMS 등으로 게시물을 등록할 경우 발생하는 요금은 이동통신사의 정책에 따릅니다.</value>
+        <value xml:lang="en">6. Charges incurred by posting though MMS is subject to the Carrier policy</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3245,10 +3226,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_6_1">
-        <value xml:lang="ko">1. 회사가 서비스 내용을 변경하거나 종료하는 경우 회사는 회원의 등록된 전자우편
-            주소로 이메일을 통하여 서비스 내용의 변경 사항 또는 종료를 통지할 수 있습니
-            다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">1. 회사가 서비스 내용을 변경하거나 종료하는 경우 회사는 회원의 등록된 전자우편주소로 이메일을 통하여 서비스 내용의 변경 사항 또는 종료를 통지할 수 있습니다.</value>
+        <value xml:lang="en">1. When the company changes or terminates the service, the company can notice it via email to the registered email address.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3260,9 +3239,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_6_2">
-        <value xml:lang="ko">2. 1항의 경우 불특정 다수인을 상대로 통지를 함에 있어서는 웹사이트 등 기타 회
-            사의 공지사항을 통하여 회원들에게 통지할 수 있습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">2. 1항의 경우 불특정 다수인을 상대로 통지를 함에 있어서는 웹사이트 등 기타 회사의 공지사항을 통하여 회원들에게 통지할 수 있습니다.</value>
+        <value xml:lang="en">2. Regarding the notification in 1, the company also can post it to the website.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3287,9 +3265,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_7_1">
-        <value xml:lang="ko">1. 회사는 아래 각 호의 1에 해당하는 사유가 발생한 경우에는 회원의 서비스 이용을
-            제한하거나 중지시킬 수 있습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">1. 회사는 아래 각 호의 1에 해당하는 사유가 발생한 경우에는 회원의 서비스 이용을 제한하거나 중지시킬 수 있습니다.</value>
+        <value xml:lang="en">1. The company may limit or stop the service of the member, in the event of the below reasons.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3302,7 +3279,7 @@
     </property>
     <property key="TermsOfLocationBasedService_7_1_1">
         <value xml:lang="ko">1) 회원이 회사 서비스의 운영을 고의 또는 중과실로 방해하는 경우</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="en">1) If the members intentionally interfere with the operation or are guilty of gross negligence.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3315,7 +3292,7 @@
     </property>
     <property key="TermsOfLocationBasedService_7_1_2">
         <value xml:lang="ko">2) 서비스용 설비 점검, 보수 또는 공사로 인하여 부득이한 경우</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="en">2) If there are the cases of unavoidable matters such as inspection equipment or repairing the site.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3327,9 +3304,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_7_1_3">
-        <value xml:lang="ko">3) 전기통신사업법에 규정된 기간통신사업자가 전기통신 서비스를 중지했을
-            경우</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">3) 전기통신사업법에 규정된 기간통신사업자가 전기통신 서비스를 중지했을 경우</value>
+        <value xml:lang="en">3) If the carrier companies assigned by the Telecommunications Business Act stop the service.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3341,9 +3317,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_7_1_4">
-        <value xml:lang="ko">4) 국가비상사태, 서비스 설비의 장애 또는 서비스 이용의 폭주 등으로 서비스
-            이용에 지장이 있는 때</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">4) 국가비상사태, 서비스 설비의 장애 또는 서비스 이용의 폭주 등으로 서비스이용에 지장이 있는 때</value>
+        <value xml:lang="en">4) If the members have difficulty using the service by the state of national emergency, equipment failure or congestion of users</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3355,9 +3330,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_7_1_5">
-        <value xml:lang="ko">5) 기타 중대한 사유로 인하여 회사가 서비스 제공을 지속하는 것이 부적당하
-            다고 인정하는 경우</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">5) 기타 중대한 사유로 인하여 회사가 서비스 제공을 지속하는 것이 부적당하다고 인정하는 경우</value>
+        <value xml:lang="en">5) If the company cannot maintain proper service by other serial reasons.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3369,9 +3343,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_7_2">
-        <value xml:lang="ko">2. 회사는 전항의 규정에 의하여 서비스의 이용을 제한하거나 중지한 때에는 그 사유
-            및 제한기간 등을 회원에게 알려야 합니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">2. 회사는 전항의 규정에 의하여 서비스의 이용을 제한하거나 중지한 때에는 그 사유 및 제한기간 등을 회원에게 알려야 합니다.</value>
+        <value xml:lang="en">2. The company has responsibility to inform the members the fact that it stops or limit the service because of the reasons in clause ①</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3396,9 +3369,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_8_1">
-        <value xml:lang="ko">1. 회사는 개인위치정보를 이용하여 서비스를 제공하고자 하는 경우에는 미리 이용
-            약관에 명시한 후 개인위치정보주체의 동의를 얻어야 합니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">1. 회사는 개인위치정보를 이용하여 서비스를 제공하고자 하는 경우에는 미리 이용약관에 명시한 후 개인위치정보주체의 동의를 얻어야 합니다.</value>
+        <value xml:lang="en">1. If the company wants to provide the service using personal location information, it should obtain the consent from the users after specifying the terms in the agreement.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3410,11 +3382,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_8_2">
-        <value xml:lang="ko">2. 회원 및 법정대리인의 권리와 그 행사방법은 제소 당시의 이용자의 주소에 의하
-            며, 주소가 없는 경우에는 거소를 관할하는 지방법원의 전속관할로 합니다. 다만,
-            제소 당시 이용자의 주소 또는 거소가 분명하지 않거나 외국 거주자의 경우에는
-            민사소송법상의 관할법원에 제기합니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">2. 회원 및 법정대리인의 권리와 그 행사방법은 제소 당시의 이용자의 주소에 의하며, 주소가 없는 경우에는 거소를 관할하는 지방법원의 전속관할로 합니다. 다만, 제소 당시 이용자의 주소 또는 거소가 분명하지 않거나 외국 거주자의 경우에는 민사소송법상의 관할법원에 제기합니다.</value>
+        <value xml:lang="en">2. When the users or their legal representatives file a suit, the district court nearby registered address of the users has the jurisdiction, and if the member does not register the information, the court nearby the residence of them will be in charge. In the case of foreign resident or the users who do not have clear residence information, they should file a suit in a court assigned by the Civil Proceedings Act.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3426,9 +3395,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_8_3">
-        <value xml:lang="ko">3. 회사는 타사업자 또는 이용 고객과의 요금정산 및 민원처리를 위해 위치정보 이용
-            ·제공.사실 확인자료를 자동 기록·보존하며, 해당 자료는 6개월간 보관합니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">3. 회사는 타사업자 또는 이용 고객과의 요금정산 및 민원처리를 위해 위치정보 이용·제공.사실 확인자료를 자동 기록·보존하며, 해당 자료는 6개월간 보관합니다.</value>
+        <value xml:lang="en">3. The company should automatically preserve the data regarding the use of personal location information or history records of providing it to confirm the billing process and deal with complaints from the users or other related companies. In addition, the data should be maintained for 1 year.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3440,10 +3408,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_8_4">
-        <value xml:lang="ko">4. 회사는 개인위치정보를 회원이 지정하는 제3자에게 제공하는 경우에는 개인위치
-            정보를 수집한 당해 통신 단말장치로 매회 회원에게 제공받는 자, 제공일시 및 제
-            공목적을 즉시 통보합니다. 단, 아래 각 호의 1에 해당하는 경우에는 회원이 미리 특정하여 지정한 통신 단말장치 또는 전자우편주소로 통보합니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">4. 회사는 개인위치정보를 회원이 지정하는 제3자에게 제공하는 경우에는 개인위치정보를 수집한 당해 통신 단말장치로 매회 회원에게 제공받는 자, 제공일시 및 제공목적을 즉시 통보합니다. 단, 아래 각 호의 1에 해당하는 경우에는 회원이 미리 특정하여 지정한 통신 단말장치 또는 전자우편주소로 통보합니다.</value>
+        <value xml:lang="en">4. When the company provides the personal location based information to the third party assigned by the member, it should notice the 3rd party's information and dates or purpose of the use right away through the terminal device where you collect the information. However, in cases under subparagraphs, notification will be made through the terminal devices assigned by the members in advance or through the email.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3455,9 +3421,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_8_4_1">
-        <value xml:lang="ko">1) 개인위치정보를 수집한 당해 통신단말장치가 문자, 음성 또는 영상의 수신
-            기능을 갖추지 아니한 경우</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">1) 개인위치정보를 수집한 당해 통신단말장치가 문자, 음성 또는 영상의 수신기능을 갖추지 아니한 경우</value>
+        <value xml:lang="en">1) The communication terminal which collected the personal location based information does not have receiving function of text or video.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3470,7 +3435,7 @@
     </property>
     <property key="TermsOfLocationBasedService_8_4_2">
         <value xml:lang="ko">2) 회원이 온라인 게시 등의 방법으로 통보할 것을 미리 요청한 경우</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="en">2. If the member has requested to be notified in advance by such a method of online publishing.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3495,11 +3460,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_9_1">
-        <value xml:lang="ko">1. 회원은 회사에 대하여 언제든지 개인위치정보를 이용한 위치기반서비스 제공 및
-            개인위치정보의 제3자 제공에 대한 동의의 전부 또는 일부를 철회할 수 있습니
-            다. 이 경우 회사는 수집한 개인위치정보 및 위치정보 이용, 제공사실 확인자료를
-            파기합니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">1. 회원은 회사에 대하여 언제든지 개인위치정보를 이용한 위치기반서비스 제공 및 개인위치정보의 제3자 제공에 대한 동의의 전부 또는 일부를 철회할 수 있습니다. 이 경우 회사는 수집한 개인위치정보 및 위치정보 이용, 제공사실 확인자료를 파기합니다.</value>
+        <value xml:lang="en">1. The members can partially or fully withdraw the consent of providing the location information for using the location based service at any time.  In this case, the company will destroy all the collected location based data.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3511,10 +3473,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_9_2">
-        <value xml:lang="ko">2. 회원은 회사에 대하여 언제든지 개인위치정보의 수집, 이용 또는 제공의 일시적인
-            중지를 요구할 수 있으며, 회사는 이를 거절할 수 없고 이를 위한 기술적 수단을
-            갖추고 있습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">2. 회원은 회사에 대하여 언제든지 개인위치정보의 수집, 이용 또는 제공의 일시적인 중지를 요구할 수 있으며, 회사는 이를 거절할 수 없고 이를 위한 기술적 수단을 갖추고 있습니다.</value>
+        <value xml:lang="en">2. The members can request temporary suspension of collecting, and using personal location data, or providing them, which cannot be refused by the company. It should have technical method to do it as well.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3526,10 +3486,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_9_3">
-        <value xml:lang="ko">3. 회원은 회사에 대하여 아래 각 호의 자료에 대한 열람 또는 고지를 요구할 수 있
-            고, 당해 자료에 오류가 있는 경우에는 그 정정을 요구할 수 있습니다. 이 경우 회
-            사는 정당한 사유 없이 회원의 요구를 거절할 수 없습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">3. 회원은 회사에 대하여 아래 각 호의 자료에 대한 열람 또는 고지를 요구할 수 있고, 당해 자료에 오류가 있는 경우에는 그 정정을 요구할 수 있습니다. 이 경우 회사는 정당한 사유 없이 회원의 요구를 거절할 수 없습니다.</value>
+        <value xml:lang="en">3. The members can request a viewing or notices of following material below and if there is an error in the relevant data, they can claim the correction. In this case, the company cannot refuse it without valid reason.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3542,7 +3500,7 @@
     </property>
     <property key="TermsOfLocationBasedService_9_3_1">
         <value xml:lang="ko">1) 본인에 대한 위치정보 수집, 이용, 제공사실 확인자료</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="en">1) History of collecting, using, and providing personal location information</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3554,9 +3512,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_9_3_2">
-        <value xml:lang="ko">2) 본인의 개인위치정보가 위치정보의 보호 및 이용 등에 관한 법률 또는 다른
-            법률 규정에 의하여 제3자에게 제공된 이유 및 내용</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">2) 본인의 개인위치정보가 위치정보의 보호 및 이용 등에 관한 법률 또는 다른 법률 규정에 의하여 제3자에게 제공된 이유 및 내용</value>
+        <value xml:lang="en">2) The reason why the members' location information is provided to the 3rd party and the history of it by the law or other legal provisions regarding the protection and use of their personal location information.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3568,9 +3525,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_9_4">
-        <value xml:lang="ko">4. 회원은 제1항 내지 제3항의 권리행사를 위해 회사의 소정의 절차를 통해 요구할
-            수 있습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">4. 회원은 제1항 내지 제3항의 권리행사를 위해 회사의 소정의 절차를 통해 요구할 수 있습니다.</value>
+        <value xml:lang="en">4. The members can request the rights of clauses 1 or 3 following a predetermined procedure of the company.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3595,11 +3551,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_10_1">
-        <value xml:lang="ko">1. 회사는 14세 미만의 회원에 대해서는 개인위치정보를 이용한 위치기반서비스 제
-            공 및 개인위치정보의 제3자 제공에 대한 동의를 당해 회원과 당해 회원의 법정
-            대리인으로부터 동의를 받아야 합니다. 이 경우 법정대리인은 제9조에 의한 회원
-            의 권리를 모두 가집니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">1. 회사는 14세 미만의 회원에 대해서는 개인위치정보를 이용한 위치기반서비스 제공 및 개인위치정보의 제3자 제공에 대한 동의를 당해 회원과 당해 회원의 법정대리인으로부터 동의를 받아야 합니다. 이 경우 법정대리인은 제9조에 의한 회원의 권리를 모두 가집니다.</value>
+        <value xml:lang="en">1. In case of the members who are less than 14 years old, the company should receive the consent form of location based service and providing collected location data to 3rd party from both of the members and legal representatives who have all the rights of membership indicated in Provision 9.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3611,11 +3564,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_10_2">
-        <value xml:lang="ko">2. 회사는 14세 미만의 아동의 개인위치정보 또는 위치정보 이용.제공사실 확인자
-            료를 이용약관에 명시 또는 고지한 범위를 넘어 이용하거나 제3자에게 제공하고
-            자 하는 경우에는 14세미만의 아동과 그 법정대리인의 동의를 받아야 합니다. 단,
-            아래의 경우는 제외합니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">2. 회사는 14세 미만의 아동의 개인위치정보 또는 위치정보 이용.제공사실 확인자료를 이용약관에 명시 또는 고지한 범위를 넘어 이용하거나 제3자에게 제공하고자 하는 경우에는 14세미만의 아동과 그 법정대리인의 동의를 받아야 합니다. 단, 아래의 경우는 제외합니다.</value>
+        <value xml:lang="en">2. If the company wants to use the collected location data of the members under age of 14 more than what is stated in this agreement, approval process should include legal representatives as well. Exceptions are as follow.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3627,9 +3577,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_10_2_1">
-        <value xml:lang="ko">1) 위치정보 및 위치기반서비스 제공에 따른 요금정산을 위하여 위치정보 이
-            용, 제공사실 확인자료가 필요한 경우</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">1) 위치정보 및 위치기반서비스 제공에 따른 요금정산을 위하여 위치정보 이용, 제공사실 확인자료가 필요한 경우</value>
+        <value xml:lang="en">1) When they are necessary for the service fee calculation.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3641,9 +3590,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_10_2_2">
-        <value xml:lang="ko">2) 통계작성, 학술연구 또는 시장조사를 위하여 특정 개인을 알아볼 수 없는
-            형태로 가공하여 제공하는 경우</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">2) 통계작성, 학술연구 또는 시장조사를 위하여 특정 개인을 알아볼 수 없는 형태로 가공하여 제공하는 경우</value>
+        <value xml:lang="en">2) For the statistical research or study only when they are processed as anonymous.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3668,10 +3616,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_11_1">
-        <value xml:lang="ko">1. 회사는 아래의 경우에 해당하는 자(이하 “8세 이하의 아동”등이라 한다)의 보호의
-            무자가 8세 이하의 아동 등의 생명 또는 신체보호를 위하여 개인위치정보의 이용
-            또는 제공에 동의하는 경우에는 본인의 동의가 있는 것으로 봅니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">1. 회사는 아래의 경우에 해당하는 자(이하 “8세 이하의 아동”등이라 한다)의 보호의무자가 8세 이하의 아동 등의 생명 또는 신체보호를 위하여 개인위치정보의 이용 또는 제공에 동의하는 경우에는 본인의 동의가 있는 것으로 봅니다.</value>
+        <value xml:lang="en">1. The company considers the guardian's consent of using personal location information as the consent of members themselves when it is necessary for protecting the members described in the below.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3684,7 +3630,7 @@
     </property>
     <property key="TermsOfLocationBasedService_11_1_1">
         <value xml:lang="ko">1) 8세 이하의 아동</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="en">1) Children under age of 8</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3697,7 +3643,7 @@
     </property>
     <property key="TermsOfLocationBasedService_11_1_2">
         <value xml:lang="ko">2) 금치산자</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="en">2) The incompetent</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3709,11 +3655,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_11_1_3">
-        <value xml:lang="ko">3) 장애인복지법제2조제2항제2호의 규정에 의한 정신적 장애를 가진 자로서
-            장애인고용촉진및직업재활법 제2조제2호의 규정에 의한 중증장애인에
-            해당하는 자(장애인복지법 제29조의 규정에 의하여 장애인등록을 한 자
-            에 한한다)</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">3) 장애인복지법제2조제2항제2호의 규정에 의한 정신적 장애를 가진 자로서 장애인고용촉진및직업재활법 제2조제2호의 규정에 의한 중증장애인에 해당하는 자(장애인복지법 제29조의 규정에 의하여 장애인등록을 한 자에 한한다)</value>
+        <value xml:lang="en">3) The members who have mental disabilities by the definition in Disabled Welfare Act Chapter 2, paragraph 2, 2nd arc in the severe extent under what Provisions of facilitating the disabled Employment and Vocational Rehabilitation describes. (People who are registered as the disabled following the Disabled Welfare Law Article 29)</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3725,10 +3668,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_11_2">
-        <value xml:lang="ko">2. 8세 이하의 아동 등의 생명 또는 신체의 보호를 위하여 개인위치정보의 이용 또는
-            제공에 동의를 하고자 하는 보호의무자는 서면동의서에 보호의무자임을 증명하
-            는 서면을 첨부하여 회사에 제출하여야 합니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">2. 8세 이하의 아동 등의 생명 또는 신체의 보호를 위하여 개인위치정보의 이용 또는 제공에 동의를 하고자 하는 보호의무자는 서면동의서에 보호의무자임을 증명하는 서면을 첨부하여 회사에 제출하여야 합니다.</value>
+        <value xml:lang="en">2. For getting guardians' rights described in paragraph 1), they should file the consent form with written documents of proving their identity as the representatives.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3740,9 +3681,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_11_3">
-        <value xml:lang="ko">3. 보호의무자는 8세 이하의 아동 등의 개인위치정보 이용 또는 제공에 동의하는 경
-            우 개인위치정보주체 권리의 전부를 행사할 수 있습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">3. 보호의무자는 8세 이하의 아동 등의 개인위치정보 이용 또는 제공에 동의하는 경우 개인위치정보주체 권리의 전부를 행사할 수 있습니다.</value>
+        <value xml:lang="en">3. The guardians have same rights as the members have regarding personal location information.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3767,10 +3707,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_12_1">
-        <value xml:lang="ko">1. 회사는 위치정보를 적절히 관리.보호하고 개인위치정보주체의 불만을 원활히 처
-            리할 수 있도록 실질적인 책임을 질 수 있는 지위에 있는 자를 위치정보관리책임
-            자로 지정해 운영합니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">1. 회사는 위치정보를 적절히 관리.보호하고 개인위치정보주체의 불만을 원활히 처리할 수 있도록 실질적인 책임을 질 수 있는 지위에 있는 자를 위치정보관리책임자로 지정해 운영합니다.</value>
+        <value xml:lang="en">1. The company should assign the proper person who can hold responsibility and deal with the complaints as the location information officer.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3782,9 +3720,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_12_2">
-        <value xml:lang="ko">2. 위치정보관리책임자는 위치기반서비스를 제공하는 부서의 부서장으로서 구체적
-            인 사항은 본 약관의 부칙에 따릅니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">2. 위치정보관리책임자는 위치기반서비스를 제공하는 부서의 부서장으로서 구체적인 사항은 본 약관의 부칙에 따릅니다.</value>
+        <value xml:lang="en">2. The officer is the head of the department of providing location based service, and details are stated in the addendum of this agreement</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3809,11 +3746,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_13_1">
-        <value xml:lang="ko">1. 회사가 위치정보의 보호 및 이용 등에 관한 법률 제15조 내지 제26조의 규정을
-            위반한 행위로 회원에게 손해가 발생한 경우 회원은 회사에 대하여 손해배상 청
-            구를 할 수 있습니다. 이 경우 회사는 고의, 과실이 없음을 입증하지 못하는 경우
-            책임을 면할 수 없습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">1. 회사가 위치정보의 보호 및 이용 등에 관한 법률 제15조 내지 제26조의 규정을 위반한 행위로 회원에게 손해가 발생한 경우 회원은 회사에 대하여 손해배상 청구를 할 수 있습니다. 이 경우 회사는 고의, 과실이 없음을 입증하지 못하는 경우 책임을 면할 수 없습니다.</value>
+        <value xml:lang="en">1. If the company incurred damages to the members violating Article 15 to Article 26 provisions regarding the law of protection and use of location information, the members can claim damages against the company. The company cannot be exempted if they fail to demonstrate their innocence.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3825,10 +3759,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_13_2">
-        <value xml:lang="ko">2. 회원이 본 약관의 규정을 위반하여 회사에 손해가 발생한 경우 회사는 회원에 대
-            하여 손해배상을 청구할 수 있습니다. 이 경우 회원은 고의, 과실이 없음을 입증
-            하지 못하는 경우 책임을 면할 수 없습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">2. 회원이 본 약관의 규정을 위반하여 회사에 손해가 발생한 경우 회사는 회원에 대하여 손해배상을 청구할 수 있습니다. 이 경우 회원은 고의, 과실이 없음을 입증하지 못하는 경우 책임을 면할 수 없습니다.</value>
+        <value xml:lang="en">2. If the members incurred damages to the company violating provisions of this agreement, the company can claim damages against the members. The member cannot be exempted if they fail to demonstrate their innocence.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3853,9 +3785,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_14_1">
-        <value xml:lang="ko">1. 회사는 다음 각 호의 경우로 서비스를 제공할 수 없는 경우 이로 인하여 회원에게
-            발생한 손해에 대해서는 책임을 부담하지 않습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">1. 회사는 다음 각 호의 경우로 서비스를 제공할 수 없는 경우 이로 인하여 회원에게 발생한 손해에 대해서는 책임을 부담하지 않습니다.</value>
+        <value xml:lang="en">1. The company does not hold responsibility for any damages of the members caused by below cases.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3868,7 +3799,7 @@
     </property>
     <property key="TermsOfLocationBasedService_14_1_1">
         <value xml:lang="ko">1) 천재지변 또는 이에 준하는 불가항력의 상태가 있는 경우</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="en">1) If there is natural disaster or etc.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3880,9 +3811,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_14_1_2">
-        <value xml:lang="ko">2) 서비스 제공을 위하여 회사와 서비스 제휴계약을 체결한 제3자의 고의적
-            인 서비스 방해가 있는 경우</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">2) 서비스 제공을 위하여 회사와 서비스 제휴계약을 체결한 제3자의 고의적인 서비스 방해가 있는 경우</value>
+        <value xml:lang="en">2) If there is deliberate interruption from 3rd parties who have signed partnership agreement with the company for providing the service</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3895,7 +3825,7 @@
     </property>
     <property key="TermsOfLocationBasedService_14_1_3">
         <value xml:lang="ko">3) 회원의 귀책사유로 서비스 이용에 장애가 있는 경우</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="en">3) If the failure of the service is attributable to the members</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3907,9 +3837,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_14_1_4">
-        <value xml:lang="ko">4) 제1호 내지 제3호를 제외한 기타 회사의 고의·과실이 없는 사유로 인한 경
-            우</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">4) 제1호 내지 제3호를 제외한 기타 회사의 고의·과실이 없는 사유로 인한 경우</value>
+        <value xml:lang="en">4) Other cases without the company's fault</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3921,10 +3850,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_14_2">
-        <value xml:lang="ko">2. 회사는 서비스 및 서비스에 게재된 정보, 자료, 사실의 신뢰도, 정확성 등에 대해
-            서는 보증을 하지 않으며 이로 인해 발생한 회원의 손해에 대하여는 책임을 부
-            담하지 아니합니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">2. 회사는 서비스 및 서비스에 게재된 정보, 자료, 사실의 신뢰도, 정확성 등에 대해서는 보증을 하지 않으며 이로 인해 발생한 회원의 손해에 대하여는 책임을 부담하지 아니합니다.</value>
+        <value xml:lang="en">2. The accuracy of data collected from the members cannot be guaranteed by the company, and it will not be liable for the damages incurred because of it.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3950,7 +3877,7 @@
     </property>
     <property key="TermsOfLocationBasedService_15_1">
         <value xml:lang="ko">1. 본 약관은 대한민국법령에 의하여 규정되고 이행됩니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="en">1. This agreement is following the laws of Republic of Korea.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3963,7 +3890,7 @@
     </property>
     <property key="TermsOfLocationBasedService_15_2">
         <value xml:lang="ko">2. 본 약관에 규정되지 않은 사항에 대해서는 관련법령 및 상관습에 의합니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="en">2. For matters not specified in these Terms and Conditions will follow the relevant laws, regulations and business practices.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -3988,10 +3915,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_16_1">
-        <value xml:lang="ko">1. 회사는 위치정보와 관련된 분쟁에 대해 당사자간 협의가 이루어지지 아니하거나
-            협의를 할 수 없는 경우에는 위치정보의 보호 및 이용 등에 관한 법률 제28조의
-            규정에 의한 방송통신위원회에 재정을 신청할 수 있습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">1. 회사는 위치정보와 관련된 분쟁에 대해 당사자간 협의가 이루어지지 아니하거나 협의를 할 수 없는 경우에는 위치정보의 보호 및 이용 등에 관한 법률 제28조의 규정에 의한 방송통신위원회에 재정을 신청할 수 있습니다.</value>
+        <value xml:lang="en">1. The company can file a complaint to the Korean Communications Commission by the article 28 of the law regarding protection of private location information when the disputes related to the matters cannot be resolved.</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -4003,10 +3928,8 @@
         <value xml:lang="sv"></value>
     </property>
     <property key="TermsOfLocationBasedService_16_2">
-        <value xml:lang="ko">2. 회사 또는 고객은 위치정보와 관련된 분쟁에 대해 당사자간 협의가 이루어지지 아
-            니하거나 협의를 할 수 없는 경우에는 개인정보보호법 제43조의 규정에 의한 개
-            인정보분쟁조정위원회에 조정을 신청할 수 있습니다.</value>
-        <value xml:lang="en"></value>
+        <value xml:lang="ko">2. 회사 또는 고객은 위치정보와 관련된 분쟁에 대해 당사자간 협의가 이루어지지 아니하거나 협의를 할 수 없는 경우에는 개인정보보호법 제43조의 규정에 의한 개인정보분쟁조정위원회에 조정을 신청할 수 있습니다.</value>
+        <value xml:lang="en">2. If the company or the users cannot be settled on the disputes related to the location information, the party can apply the adjustments to the Personal Information Dispute Mediation Committee according to the provisions of the Privacy Act 43</value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
         <value xml:lang="it"></value>
@@ -4203,8 +4126,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_a">
+        <value xml:lang="ko">(주)엔디소프트(이하 "회사"라 합니다) 은 이용자의 개인정보보호를 매우 중요시 하며, 『개인정보 보호법』,『정보통신망 이용촉진 및 정보보호 등에 관한 법률』등 개인정보와 관련된 법령 상의 개인정보보호 규정을 준수하고 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4216,8 +4139,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_b">
+        <value xml:lang="ko">개인정보처리방침은 회사가 제공하는 서비스 및 관련 제반 서비스(이하 “서비스”라 합니다) 이용에 적용되며 다음과 같은 내용을 담고 있습니다. 또한, 회사는 개인정보처리방침을 통해 이용자의 개인정보가 어떻게 수집, 이용되고 있으며, 회사가 개인정보보호를 위해 어떠한 조치를 취하고 있는지 알려드립니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4229,8 +4152,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_c">
+        <value xml:lang="ko">이용자는 개인정보의 수집, 이용, 제공, 위탁 등과 관련된 사항에 대해 원하지 않을 경우 동의를 거부할 수 있습니다. 다만, 이용자가 동의를 거부하는 경우 서비스의 전부 또는 일부를 이용할 수 없음을 알려드립니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4242,8 +4165,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_d">
+        <value xml:lang="ko">이용자께서는 어플리케이션과 홈페이지 방문시 수시로 확인하시기 바랍니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4255,8 +4178,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1">
+        <value xml:lang="ko">1.수집하는 개인정보의 항목 및 수집방법</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4268,8 +4191,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_a">
+        <value xml:lang="ko">개인정보는 생존하는 개인에 관한 정보로서 서비스 이용자를 식별할 수 있는 정보(당해 정보만으로는 특정개인을 식별할 수 없더라도 다른 정보와 용이하게 결합하여 식별할 수 있는 것을 포함)를 말합니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4281,8 +4204,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_b">
+        <value xml:lang="ko">회사가 수집한 개인정보는 다음의 목적을 위해 활용합니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4294,8 +4217,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_c">
+        <value xml:lang="ko">회사는 최초 회원가입 및 원활한 고객상담, 기타 각종 서비스 등 서비스 제공을 위한 필수정보를 수집하고 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4307,8 +4230,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_d">
+        <value xml:lang="ko">그리고 고객 맞춤서비스 제공, 회사에서 제공한 다양한 서비스를 제공하기 위하여 선택항목을 수집하고 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4320,8 +4243,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1">
+        <value xml:lang="ko">1) 수집하는 개인정보 항목</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4333,8 +4256,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_1">
+        <value xml:lang="ko">가.회원가입 시 수집하는 정보(필수수집)</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4346,8 +4269,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_1_1">
+        <value xml:lang="ko">사진</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4359,8 +4282,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_1_2">
+        <value xml:lang="ko">닉네임</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4372,8 +4295,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_1_3">
+        <value xml:lang="ko">성별</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4385,8 +4308,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_1_4">
+        <value xml:lang="ko">휴대폰 번호</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4398,8 +4321,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_1_5">
+        <value xml:lang="ko">위치</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4411,8 +4334,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_1_6">
+        <value xml:lang="ko">Google ID</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4424,8 +4347,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_1_7">
+        <value xml:lang="ko">Android ID(SSAID)</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4437,8 +4360,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_1_8">
+        <value xml:lang="ko">단말기 식별번호(IMEI)</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4450,8 +4373,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_2">
+        <value xml:lang="ko">나.추가 서비스 이용에 필요한 정보(선택수집)</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4463,8 +4386,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_2_1">
+        <value xml:lang="ko">인사말</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4476,8 +4399,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_2_2">
+        <value xml:lang="ko">국적</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4489,8 +4412,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_2_3">
+        <value xml:lang="ko">생년월일</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4502,8 +4425,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_2_4">
+        <value xml:lang="ko">저장공간 활용 동의여부</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4515,8 +4438,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_2_5">
+        <value xml:lang="ko">카메라 권한 동의여부</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4528,8 +4451,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_2_6">
+        <value xml:lang="ko">단말정보 수집여부</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4541,8 +4464,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_2_7">
+        <value xml:lang="ko">위치정보 이용 동의여부</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4554,8 +4477,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_2_8">
+        <value xml:lang="ko">연락처 접근 허용여부</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4567,8 +4490,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_3">
+        <value xml:lang="ko">다.서비스 이용과정이나 사업처리 과정에서의 수집정보</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4580,8 +4503,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_3_1">
+        <value xml:lang="ko">IP Address, 방문 일시, 서비스 이용 기록, 불량 이용 기록, 접속 로그</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4593,8 +4516,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_3_2">
+        <value xml:lang="ko">사용 이동통신사 등</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4606,8 +4529,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_3_3">
+        <value xml:lang="ko">서비스 사용 중일 때 귀하의 모바일 기기의 지리적 위치</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4619,8 +4542,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_3_4">
+        <value xml:lang="ko">모바일 단말기 정보(IMEI), 국가정보 (MCC)</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4632,8 +4555,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_3_5">
+        <value xml:lang="ko">광고 식별자 정보 (ADID, IDFA)</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4645,8 +4568,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_4">
+        <value xml:lang="ko">회사는 회원가입, 원활한 고객상담, 각종 서비스의 제공을 위해 회원가입시 위와 같은 개인정보를 수집하고 있습니다. 선택수집 항목은 입력하지 않아도 회원가입이 가능합니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4658,8 +4581,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_1_5">
+        <value xml:lang="ko">병역사항, 연봉, 차량, 주거형태, 몸무게, 시력, 혼인이력, 연애상태 등은 추가서비스 및 설문조사를 통해 다양한 정보 수집 및 제공에 필요시 정보주체가 그 수집에 동의하는 경우 추가로 수집될 수 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4671,8 +4594,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_2">
+        <value xml:lang="ko">2) 개인정보 수집방법</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4684,8 +4607,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_2_a">
+        <value xml:lang="ko">회사는 다음과 같은 방법으로 개인정보를 수집하고 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4697,8 +4620,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_2_1">
+        <value xml:lang="ko">가.회원가입 및 서비스 이용과정에서 개인정보 수집에 대해 동의를 하고 직접 정보를 입력</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4710,8 +4633,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_2_2">
+        <value xml:lang="ko">나.홈페이지, 모바일앱, 모바일웹, 서면 양식, 전화, FAX, 문의메일, SNS, 게시판, 쿠키</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4723,8 +4646,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_2_3">
+        <value xml:lang="ko">다.이벤트 응모, 배송 요청</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4736,8 +4659,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_2_4">
+        <value xml:lang="ko">라.생성정보 수집 툴을 통한 수집</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4749,8 +4672,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_1_2_5">
+        <value xml:lang="ko">마.협력회사로부터 공동 제휴 및 협력을 통한 정보 수집</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4762,8 +4685,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_2">
+        <value xml:lang="ko">2.개인정보의 수집 및 이용목적</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4775,8 +4698,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_2_a">
+        <value xml:lang="ko">회사는 수집한 개인정보를 다음의 목적을 위해 활용합니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4788,8 +4711,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_2_b">
+        <value xml:lang="ko">처리하고 있는 개인정보는 다음의 목적 이외의 용도로는 이용되지 않으며, 이용 목적이 변경되는 경우에는 개인정보 보호법 제 18조에 따라 별도의 동의를 받는 등 필요한 조치를 이행할 예정입니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4801,8 +4724,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_2_1">
+        <value xml:lang="ko">가."브릿"의 기본 기능 제공</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4814,8 +4737,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_2_1_a">
+        <value xml:lang="ko">매칭, 메시지,대화 등의 기본 기능 서비스를 제공하기 위함</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4827,8 +4750,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_2_2">
+        <value xml:lang="ko">나.회원 식별 및 회원 관리</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4840,8 +4763,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_2_2_a">
+        <value xml:lang="ko">본인 확인 및 식별, 불량회원의 부정 이용 방지와 비인가 사용 방지, 가입 의사 확인, 불만처리 등 민원처리, 고지사항 전달</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4853,8 +4776,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_2_3">
+        <value xml:lang="ko">다.마케팅 및 광고에 활용</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4866,8 +4789,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_2_3_a">
+        <value xml:lang="ko">신규 서비스 개발과 이벤트 행사에 따른 정보 전달 및 맞춤 서비스 제공, 인구통계학적 특성에 따른 서비스 제공 및 광고 게재, 접속 빈도 파악 또는 회원의 서비스 이용에 대한 통계</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4879,8 +4802,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_2_4">
+        <value xml:lang="ko">라.서비스 공지 및 알림</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4892,8 +4815,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_2_4_a">
+        <value xml:lang="ko">회사가 제공하는 서비스에 중요한 변경, 개선 등 회원이 알고 있어야 한다고 판단되는 정보에 대한 전송</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4905,8 +4828,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3">
+        <value xml:lang="ko">3.개인정보의 보유 및 이용기간</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4918,8 +4841,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_a">
+        <value xml:lang="ko">회원가입시 및 서비스 이용 중 수집된 정보는 회원탈퇴시 혹은 개인정보 수집 및 이용목적이 달성된 때까지 3개월간 보존하며 이후에는 해당 정보를 지체 없이 파기합니다. 단, 다음의 정보에 대해서는 하기의 이유로 회원탈퇴 후에도 명시한 기간 동안 해당 정보를 보존합니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4931,8 +4854,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_1">
+        <value xml:lang="ko">가. 계약 또는 청약철회 등에 관한 기록</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4944,8 +4867,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_1_1">
+        <value xml:lang="ko">보존 이유 : 전자상거래 등에서의 소비자보호에 관한 법률</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4957,8 +4880,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_1_2">
+        <value xml:lang="ko">보존 기간 : 5년</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4970,8 +4893,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_2">
+        <value xml:lang="ko">나. 대금결제 및 재화 등의 공급에 관한 기록</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4983,8 +4906,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_2_1">
+        <value xml:lang="ko">보존 이유 : 전자상거래 등에서의 소비자보호에 관한 법률</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -4996,8 +4919,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_2_2">
+        <value xml:lang="ko">보존 기간 : 5년</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5009,8 +4932,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_3">
+        <value xml:lang="ko">다. 소비자의 불만 또는 분쟁처리에 관한 기록</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5022,8 +4945,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_3_1">
+        <value xml:lang="ko">보존 이유: 전자상거래 등에서의 소비자보호에 관한 법률</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5035,8 +4958,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_3_2">
+        <value xml:lang="ko">보존 기간 : 3년</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5048,8 +4971,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_4">
+        <value xml:lang="ko">라. 접속기록</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5061,8 +4984,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_4_1">
+        <value xml:lang="ko">보존 이유 : 통신비밀보호법</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5074,8 +4997,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_4_2">
+        <value xml:lang="ko">보존 기간 : 3개월</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5087,8 +5010,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_5">
+        <value xml:lang="ko">마. 회사 내부 방침에 의한 정보보유 사유</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5100,8 +5023,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_5_1">
+        <value xml:lang="ko">보존 항목 : 부정이용기록</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5113,8 +5036,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_5_2">
+        <value xml:lang="ko">보존 이유 : 부정이용방지</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5126,8 +5049,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_3_5_3">
+        <value xml:lang="ko">보존 기간 : 1년</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5139,8 +5062,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_4">
+        <value xml:lang="ko">4.개인정보 파기절차 및 방법</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5152,8 +5075,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_4_a">
+        <value xml:lang="ko">회사는 원칙적으로 개인정보 수집 및 이용목적이 달성되거나, 보유 및 이용기간이 경과된 후에는 해당 정보를 지체 없이 파기합니다. 다만, 정보통신망 이용촉진 및 정보보호 등에 관한 법률에 따라 1년 간 이용 기록이 없는 회원의 경우, 이용중인 회원의 개인정보와 별도 분리하여 안전하게 보관하며, 1년간 서비스를 이용하지 않은 경우 회원의 개인정보 일체를 파기합니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5165,8 +5088,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_4_b">
+        <value xml:lang="ko">개인정보의 파기 절차 및 방법은 다음과 같습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5178,8 +5101,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_4_1">
+        <value xml:lang="ko">가.파기절차</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5191,8 +5114,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_4_1_a">
+        <value xml:lang="ko">이용자가 서비스 이용과정에서 제공한 목적이 달성된 후 별도의 DB로 옮겨져 내부 방침 및 기타 관련 법령에 의한 정보보호 사유에 따라(보유 및 이용기간 참조)일정 기간 저장된 후 파기되며, 법률에 의한 경우가 아니고서는 보유하는 이외의 다른 목적으로 이용되지 않습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5204,8 +5127,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_4_2">
+        <value xml:lang="ko">나.파기방법</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5217,8 +5140,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_4_2_a">
+        <value xml:lang="ko">종이에 출력된 개인정보는 분쇄기로 분쇄하거나 소각을 통하여 파기하며, 전자적 파일 형태로 저장된 개인정보는 기록을 재생할 수 없는 기술적 방법을 사용하여 삭제합니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5230,8 +5153,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_5">
+        <value xml:lang="ko">5.이용자 및 법정대리인의 권리와 그 행사방법</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5243,8 +5166,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_5_a">
+        <value xml:lang="ko">이용자 및 법정대리인은 언제든지 등록되어 있는 자신의 개인정보를 조회하거나 수정할 수 있습니다. 또한, 애플리케이션의 환경설정에서 "탈퇴"를 이용하여 서비스 해지를 요청할 수 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5256,8 +5179,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_5_b">
+        <value xml:lang="ko">이용자 및 법정대리인의 개인정보 조회, 수정을 위해서는 플랫폼사업자 또는 앱스토어사업자를 통해 "계정 삭제"를 클릭하여 직접 열람, 정정 또는 탈퇴가 가능합니다. 만약, 회사가 보유하고 있지 않은 개인정보를 확인하고자 할 경우, 회사가 서비스를 제공하는 플랫폼사업자 또는 앱스토어사업자의 가입내역 확인 및 개인정보제공을 통해 회사에서 수집한 정보와 대조하여 본인확인을 할 수 있어야 합니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5269,8 +5192,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_5_c">
+        <value xml:lang="ko">이용자 및 법정대리인이 개인정보의 오류에 대한 정정을 요청하신 경우에는 정정을 완료하기 전까지 당해 개인정보를 이용 또는 제공하지 않습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5282,8 +5205,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_5_d">
+        <value xml:lang="ko">회사는 이용자 및 법정대리인의 요청에 의해 해지 또는 삭제된 개인정보는 "3. 개인정보의 보유 및 이용기간"에 명시된 바에 따라 처리하고 그 외의 용도로 열람 또는 이용할 수 없도록 처리하고 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5295,8 +5218,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_6">
+        <value xml:lang="ko">6.개인정보의 제공 및 공유</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5308,8 +5231,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_6_a">
+        <value xml:lang="ko">원칙적으로 회사는 이용자의 개인정보를 수집 및 이용목적에 한해서만 이용하며 타인 또는 타기업·기관에 공개하지 않습니다. 다만, 아래의 경우에는 예외로 합니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5321,8 +5244,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_6_1">
+        <value xml:lang="ko">가.이용자가 사전에 동의한 경우</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5334,8 +5257,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_6_2">
+        <value xml:lang="ko">나.서비스 제공에 따른 요금 정산을 위해 필요한 경우</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5347,8 +5270,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_6_3">
+        <value xml:lang="ko">다.전기통신기본법, 전기통신사업법 등 관계 법령의 규정에 의거하거나, 수사목적으로 법령에 정해진 절차와 방법에 따라 수사기관의 요구가 있는 경우</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5360,8 +5283,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_6_4">
+        <value xml:lang="ko">라.통계작성, 학술연구 또는 시장조사를 위하여 필요한 경우로서 특정 개인을 식별할 수 없는 형태로 가공하여 제공하는 경우</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5373,8 +5296,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_7">
+        <value xml:lang="ko">7.개인정보의 취급위탁</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5386,8 +5309,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_7_a">
+        <value xml:lang="ko">회사는 동의 없이 귀하의 개인정보를 외부에 위탁처리 하지 않습니다 하지만 서비스 향상 및 안정적인 개인정보 취급을 위해서 귀하의 개인정보를 외부에 위탁하여 처리할 수 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5399,8 +5322,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_7_b">
+        <value xml:lang="ko">개인정보의 처리를 위탁하는 경우에는 위탁계약 등을 통하여 서비스제공자의 개인정보보호 관련 지시엄수, 개인정보에 관한 비밀유지, 제3자 제공의 금지 및 사고시의 책임부담 등을 명확히 규정하고 당해 계약내용을 서면 또는 전자적으로 보관하겠습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5412,8 +5335,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_7_c">
+        <value xml:lang="ko">현재 회원에 대하여 질 높은 서비스 제공 등을 위해 사전에 동의를 획득한 경우에 한하여 아래와 같이 회원의 개인정보를 위탁하고 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5425,8 +5348,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_7_1">
+        <value xml:lang="ko">수탁업체 및 위탁업무 내용</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5438,8 +5361,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_7_1_1">
+        <value xml:lang="ko">가.Viaweb - 계정 정보 저장, 데이터관리</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5451,8 +5374,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_8">
+        <value xml:lang="ko">8.개인정보보호를 위한 기술적/관리적 대책</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5464,8 +5387,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_8_1">
+        <value xml:lang="ko">1) 기술적인 대책</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5477,8 +5400,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_8_1_1">
+        <value xml:lang="ko">가.회사는 이용자의 개인정보를 관련 법률규정 및 내부정책에 따라 보안기능을 통해 안전하게 보호하고 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5490,8 +5413,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_8_1_2_a">
+        <value xml:lang="ko">나.회사는 백신프로그램을 이용하여 컴퓨터 바이러스에 의한 피해를 방지하기 위한 조치를 취하고 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5503,8 +5426,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_8_1_2_b">
+        <value xml:lang="ko">백신프로그램은 주기적으로 업데이트되며 갑작스런 바이러스가 출현될 경우 백신이 나오는 즉시 이를 적용함으로써 개인정보가 침해되는 것을 방지하고 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5516,8 +5439,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_8_1_3">
+        <value xml:lang="ko">다.회사는 이용자의 비밀번호를 암호화하여 저장 및 관리하고 있으며, 네트워크 상의 개인정보를 안전하게 전송할 수 있는 보안장치를 채택하고 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5529,8 +5452,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_8_1_4">
+        <value xml:lang="ko">라.회사는 해킹 등에 의해 이용자의 개인정보가 유출되는 것을 방지하기 위하여, 외부로부터의 침입을 차단하는 장치를 이용하고 있으며 24시간 X 365일 침입을 감시하고 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5542,8 +5465,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_8_2">
+        <value xml:lang="ko">2) 관리적인 대책</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5555,8 +5478,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_8_2_1">
+        <value xml:lang="ko">가.회사는 이용자의 개인정보에 대한 접근권한을 최소한의 인원으로 제한하고 있으며, 그 최소한의 인원에 해당하는 자는 다음과 같습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5568,8 +5491,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_8_2_1_1">
+        <value xml:lang="ko">이용자를 직접 상대로 하여 마케팅, 이벤트, 고객지원, 서비스운영 업무를 수행하는 자</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5581,8 +5504,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_8_2_1_2">
+        <value xml:lang="ko">개인정보관리책임자 등 개인정보관리업무를 수행하는 자</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5594,8 +5517,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_8_2_1_3">
+        <value xml:lang="ko">기타 업무상 개인정보의 취급이 불가피한 자</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5607,8 +5530,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_8_2_2">
+        <value xml:lang="ko">나.회사는 개인정보보호 업무를 전담하는 부서에서 개인정보처리방침 및 내부 규정 준수여부를 확인하여 문제가 발견될 경우, 즉시 바로 잡을 수 있도록 노력하고 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5620,8 +5543,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_8_2_3">
+        <value xml:lang="ko">다.이용자 본인의 부주의나 인터넷상의 문제로 이름, 비밀번호 등의 개인정보가 유출되어 발생한 문제에 대해서는 회사가 일체 책임을 지지 않습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5633,8 +5556,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_9">
+        <value xml:lang="ko">9.청소년 보호정책</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5646,8 +5569,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_9_a">
+        <value xml:lang="ko">회사는 청소년에게 유해한 각종 정보로부터 청소년을 보호하고자 관련 법률에 따라 19세 미만의 청소년들이 유해정보에 접근할 수 없도록 청소년보호정책을 마련하여 시행하고 있습니다. 또한 회사는 청소년의 건전한 성장을 저해하는 음란, 불법 등의 유해정보와 비윤리적, 반사회적 행위에 대해서는 엄격하게 제재하기 위하여 다름과 같이 활동하고 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5659,8 +5582,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_9_1">
+        <value xml:lang="ko">가.청소년유해정보로부터의 청소년보호계획의 수립</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5672,8 +5595,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_9_2">
+        <value xml:lang="ko">나.청소년유해정보에 대한 청소년접근제한 및 관리조치</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5685,8 +5608,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_9_3">
+        <value xml:lang="ko">다.정보통신업무 종사자에 대한 청소년유해정보로부터의 청소년보호를 위한 교육</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5698,8 +5621,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_9_4">
+        <value xml:lang="ko">라.청소년유해정보로 인한 피해상담 및 고충처리</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5711,8 +5634,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_9_5">
+        <value xml:lang="ko">마.그 밖에 청소년유해정보로부터 청소년을 보호하기 위하여 필요한 사항</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5724,8 +5647,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_10">
+        <value xml:lang="ko">10.개인정보 보호책임자 및 상담·신고</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5737,8 +5660,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_10_a">
+        <value xml:lang="ko">이용자의 개인정보를 보호하고 개인정보와 관련한 불만을 처리하기 위하여 회사는 개인정보 보호책임자를 두고 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5750,8 +5673,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_10_b">
+        <value xml:lang="ko">이용자의 개인정보와 관련한 문의사항이 있으시면 아래의 개인정보 보호책임자 또는 개인정보 보호관리자에게 연락 주시기 바랍니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5763,8 +5686,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_10_c">
+        <value xml:lang="ko">개인정보 보호책임자 : 김동근</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5776,8 +5699,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_10_d">
+        <value xml:lang="ko">이메일 : jpjp4521@nate.com</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5789,8 +5712,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_10_e">
+        <value xml:lang="ko">개인정보침해에 관한 상담이 필요한 경우에는 개인정보침해신고센터, 대검찰청 사이버범죄수사과, 경찰청 사이버안전국 등으로 문의하실 수 있습니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5802,8 +5725,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_10_e_1">
+        <value xml:lang="ko">개인분쟁조정위원회 (1336)</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5815,8 +5738,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_10_e_2">
+        <value xml:lang="ko">정보보호마크인증위원회 (02-580-0533~4)</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5828,8 +5751,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_10_e_3">
+        <value xml:lang="ko">대검찰청 인터넷범죄수사센터 (02-3480-3600)</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5841,8 +5764,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_10_e_4">
+        <value xml:lang="ko">경찰청 사이버테러대응센터 (02-392-0330)</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5854,8 +5777,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_11">
+        <value xml:lang="ko">11.부칙</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5867,8 +5790,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_11_1">
+        <value xml:lang="ko">1) 회사는 본 개인정보처리방침을 변경하는 경우 그 변경 사유 및 적용일자를 명시하여 현행 개인정보처리방침과 함께 적용일자 10일전부터 적용일전까지 서비스 화면에 고지합니다. 다만, 이용자의 권리 또는 의무에 중요한 내용의 변경이 있을 경우에는 최소 30일전에 고지합니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5880,8 +5803,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_11_2">
+        <value xml:lang="ko">2) 회사가 제1항에 따라 변경 내용을 고지하면서 변경 적용일까지 거부의사를 표시하지 않으면 의사표시가 된 것으로 본다는 뜻을 고지 하였음에도 불구하고 이용자가 명시적으로 거부의사를 표시하지 아니하는 경우 이용자가 변경 내용에 동의한것으로 봅니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5893,8 +5816,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_11_3_a">
+        <value xml:lang="ko">3) 회사는 제 2항에도 불구하고 이용자로부터 개인정보를 추가 수집하거나 제3자에게 제공하는 경우에는 이용자 본인으로부터 이에 대하여 별도 동의 절차를 거칩니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5906,8 +5829,8 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_11_3_b">
+        <value xml:lang="ko">본 개인정보 처리방침은 2020년 01월 01일부터 적용됩니다.</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
@@ -5919,8 +5842,21 @@
         <value xml:lang="mn"></value>
         <value xml:lang="sv"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="PrivacyPolicy_11_a">
+        <value xml:lang="ko">개인정보처리방침 변경공고일자 : 2020년 01월 01일</value>
+        <value xml:lang="en"></value>
+        <value xml:lang="de"></value>
+        <value xml:lang="ja"></value>
+        <value xml:lang="it"></value>
+        <value xml:lang="zh"></value>
+        <value xml:lang="ru"></value>
+        <value xml:lang="vi"></value>
+        <value xml:lang="fr"></value>
+        <value xml:lang="mn"></value>
+        <value xml:lang="sv"></value>
+    </property>
+    <property key="PrivacyPolicy_11_b">
+        <value xml:lang="ko">개인정보처리방침 시행일자 : 2020년 01월 01일</value>
         <value xml:lang="en"></value>
         <value xml:lang="de"></value>
         <value xml:lang="ja"></value>
