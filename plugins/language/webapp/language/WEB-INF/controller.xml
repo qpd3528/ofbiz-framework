@@ -68,6 +68,12 @@ under the License.
         </response>
         <response name="error" type="view" value="EditLanguage"/>
     </request-map>
+    <request-map uri="deleteLanguage">
+        <security https="true" auth="true"/>
+        <event type="service" invoke="deleteLanguage"/>
+        <response name="success" type="request-redirect" value="FindLanguage"/>
+        <response name="error" type="view" value="EditLanguage"/>
+    </request-map>
     <request-map uri="createLanguageAjax">
         <security https="true" auth="true"/>
         <event type="service" invoke="createLanguage"/>
