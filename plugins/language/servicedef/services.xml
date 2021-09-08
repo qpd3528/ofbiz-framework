@@ -32,7 +32,7 @@ under the License.
         <auto-attributes include="nonpk" mode="IN" optional="true"/>
 <!--        <override name="languageTypeId" optional="false"/>-->
 <!--        <override name="statusId" optional="false"/>-->
-        <override name="languageName" optional="false"/>
+<!--        <override name="languageName" optional="false"/>-->
     </service>
     <service name="updateLanguage" default-entity-name="Language" engine="entity-auto" invoke="update" auth="true">
         <description>Update a Language</description>
@@ -46,16 +46,16 @@ under the License.
         <permission-service service-name="languageGenericPermission" main-action="DELETE"/>
         <auto-attributes include="pk" mode="IN" optional="false"/>
     </service>
-    <service name="createLanguageStatus" default-entity-name="LanguageStatus" engine="simple"
-            location="component://language/minilang/language/LanguageServices.xml" invoke="createLanguageStatus" auth="true">
-        <description>Create a LanguageStatus</description>
-        <permission-service service-name="languageGenericPermission" main-action="CREATE"/>
-        <auto-attributes include="all" mode="IN" optional="false">
-            <exclude field-name="statusDate"/>
-            <exclude field-name="statusEndDate"/>
-            <exclude field-name="changeByUserLoginId"/>
-        </auto-attributes>
-    </service>
+<!--    <service name="createLanguageStatus" default-entity-name="LanguageStatus" engine="simple"-->
+<!--            location="component://language/minilang/language/LanguageServices.xml" invoke="createLanguageStatus" auth="true">-->
+<!--        <description>Create a LanguageStatus</description>-->
+<!--        <permission-service service-name="languageGenericPermission" main-action="CREATE"/>-->
+<!--        <auto-attributes include="all" mode="IN" optional="false">-->
+<!--            <exclude field-name="statusDate"/>-->
+<!--            <exclude field-name="statusEndDate"/>-->
+<!--            <exclude field-name="changeByUserLoginId"/>-->
+<!--        </auto-attributes>-->
+<!--    </service>-->
 
     <service name="createLanguageItem" default-entity-name="LanguageItem" engine="entity-auto" invoke="create" auth="true">
         <description>Create a LanguageItem</description>

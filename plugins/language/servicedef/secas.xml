@@ -20,9 +20,9 @@ under the License.
 
 <service-eca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="http://ofbiz.apache.org/dtds/service-eca.xsd">
-    <eca service="createLanguage" event="return">
-        <action service="createLanguageStatus" mode="sync"/>
-    </eca>
+<!--    <eca service="createLanguage" event="return">-->
+<!--        <action service="createLanguageStatus" mode="sync"/>-->
+<!--    </eca>-->
     <!-- FIXME: This ECA assumes the updateLanguage service was called with a statusId parameter.
          The condition should be improved to check for statusId being not empty. -->
     <!--

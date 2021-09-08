@@ -21,27 +21,27 @@ under the License.
 <simple-methods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns="http://ofbiz.apache.org/Simple-Method" xsi:schemaLocation="http://ofbiz.apache.org/Simple-Method http://ofbiz.apache.org/dtds/simple-methods.xsd">
     <!-- LanguageStatus methods -->
-    <simple-method method-name="createLanguageStatus" short-description="create a LanguageItem">
-        <now-timestamp field="nowTimestamp"/>
+<!--    <simple-method method-name="createLanguageStatus" short-description="create a LanguageItem">-->
+<!--        <now-timestamp field="nowTimestamp"/>-->
 
-        <!-- find the most recent status record and set the statusEndDate -->
-        <entity-and entity-name="LanguageStatus" list="oldLanguageStatusList">
-            <field-map field-name="languageId" from-field="parameters.languageId"/>
-            <order-by field-name="-statusDate"/>
-        </entity-and>
-        <first-from-list list="oldLanguageStatusList" entry="oldLanguageStatus"/>
-        <if-not-empty field="oldLanguageStatus">
-            <set field="oldLanguageStatus.statusEndDate" from-field="nowTimestamp"/>
-            <store-value value-field="oldLanguageStatus"/>
-        </if-not-empty>
+<!--        &lt;!&ndash; find the most recent status record and set the statusEndDate &ndash;&gt;-->
+<!--        <entity-and entity-name="LanguageStatus" list="oldLanguageStatusList">-->
+<!--            <field-map field-name="languageId" from-field="parameters.languageId"/>-->
+<!--            <order-by field-name="-statusDate"/>-->
+<!--        </entity-and>-->
+<!--        <first-from-list list="oldLanguageStatusList" entry="oldLanguageStatus"/>-->
+<!--        <if-not-empty field="oldLanguageStatus">-->
+<!--            <set field="oldLanguageStatus.statusEndDate" from-field="nowTimestamp"/>-->
+<!--            <store-value value-field="oldLanguageStatus"/>-->
+<!--        </if-not-empty>-->
 
-        <make-value entity-name="LanguageStatus" value-field="newEntity"/>
-        <set-pk-fields map="parameters" value-field="newEntity"/>
-        <set-nonpk-fields map="parameters" value-field="newEntity"/>
-        <set field="newEntity.statusDate" from-field="nowTimestamp"/>
-        <set field="newEntity.changeByUserLoginId" from-field="userLogin.userLoginId"/>
-        <create-value value-field="newEntity"/>
-    </simple-method>
+<!--        <make-value entity-name="LanguageStatus" value-field="newEntity"/>-->
+<!--        <set-pk-fields map="parameters" value-field="newEntity"/>-->
+<!--        <set-nonpk-fields map="parameters" value-field="newEntity"/>-->
+<!--        <set field="newEntity.statusDate" from-field="nowTimestamp"/>-->
+<!--        <set field="newEntity.changeByUserLoginId" from-field="userLogin.userLoginId"/>-->
+<!--        <create-value value-field="newEntity"/>-->
+<!--    </simple-method>-->
 
     <!-- Language ServiceTest Service -->
     <simple-method method-name="testCreateLanguageService" short-description="test the create language service" login-required="false">
