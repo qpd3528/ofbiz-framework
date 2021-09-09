@@ -50,8 +50,8 @@ under the License.
         <field name="systemLanguage" type="indicator"></field><!-- 시스템 언어 -->
         <field name="translationLanguage" type="indicator"></field><!-- 번역 언어 -->
         <field name="authorId" type="name"></field><!-- 수정자 -->
-        <field name="description" type="description"></field>
-        <field name="languageDate" type="date-time"></field>
+        <field name="description" type="description"></field><!-- 설명 -->
+        <field name="languageDate" type="date-time"></field><!-- 최종 업데이트 -->
         <prim-key field="languageId"/>
         <relation type="one" fk-name="EXMPL_TYP" rel-entity-name="LanguageType">
             <key-map field-name="languageTypeId"/>

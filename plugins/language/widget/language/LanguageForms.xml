@@ -54,23 +54,23 @@ under the License.
     <form name="FindLanguages" type="single" target="FindLanguage" default-entity-name="Language">
         <field name="noConditionFind"><hidden value="Y"/><!-- if this isn't there then with all fields empty no query will be done --></field>
 <!--        <field name="languageId" title="${uiLabelMap.LanguageLanguageId}"><text-find/></field>-->
-        <field name="languageCode" title="${uiLabelMap.LanguageCode}"><text-find/></field>
-        <field name="countryCode" title="${uiLabelMap.CountryCode}"><text-find/></field>
-        <field name="languageName" title="${uiLabelMap.LanguageName}"><text-find/></field>
-        <field name="nativeLanguageName" title="${uiLabelMap.NativeLanguageName}"><text-find/></field>
-        <field name="systemLanguage">
+        <field name="languageCode" title="${uiLabelMap.languageCode}"><text-find/></field>
+        <field name="countryCode" title="${uiLabelMap.countryCode}"><text-find/></field>
+        <field name="languageName" title="${uiLabelMap.languageName}"><text-find/></field>
+        <field name="nativeLanguageName" title="${uiLabelMap.nativeLanguageName}"><text-find/></field>
+        <field name="systemLanguage" title="${uiLabelMap.systemLanguage}">
             <check>
-                <option key="Y" description="${uiLabelMap.CommonY}"/>
-                <option key="N" description="${uiLabelMap.CommonN}"/>
+                <option key="Y" description="${uiLabelMap.languageY}"/>
+                <option key="N" description="${uiLabelMap.languageN}"/>
             </check>
         </field>
-        <field name="translationLanguage">
+        <field name="translationLanguage" title="${uiLabelMap.translationLanguage}">
             <check>
-                <option key="Y" description="${uiLabelMap.CommonY}"/>
-                <option key="N" description="${uiLabelMap.CommonN}"/>
+                <option key="Y" description="${uiLabelMap.languageY}"/>
+                <option key="N" description="${uiLabelMap.languageN}"/>
             </check>
         </field>
-        <field name="searchButton"><submit/></field>
+        <field name="searchButton" title="${uiLabelMap.languageSearch}"><submit/></field>
     </form>
 
 <!--    <grid name="ListLanguages" list-name="listIt" paginate-target="FindLanguage" default-entity-name="Language" separate-columns="true"-->
@@ -113,13 +113,13 @@ under the License.
         </actions>
         <alt-row-style use-when="'EXST_APPROVED'.equals(statusId)" style="Validate"/>
         <alt-row-style use-when="'EXST_CANCELLED'.equals(statusId)" style="Warn"/>
-        <field name="languageCode" title="${uiLabelMap.CommonCode}" sort-field="true"><display/></field>
-        <field name="countryCode" title="${uiLabelMap.CountryCode}" sort-field="true"><display/></field>
-        <field name="languageName" title="${uiLabelMap.CommonName}"><display/></field>
-        <field name="nativeLanguageName" title="${uiLabelMap.NativeLanguageName}"><display/></field>
-        <field name="systemLanguage" title="${uiLabelMap.SystemLanguage}" sort-field="true"><display/></field>
+        <field name="languageCode" title="${uiLabelMap.languageCode}" sort-field="true"><display/></field>
+        <field name="countryCode" title="${uiLabelMap.countryCode}" sort-field="true"><display/></field>
+        <field name="languageName" title="${uiLabelMap.languageName}"><display/></field>
+        <field name="nativeLanguageName" title="${uiLabelMap.nativeLanguageName}"><display/></field>
+        <field name="systemLanguage" title="${uiLabelMap.systemLanguage}" sort-field="true"><display/></field>
         <field name="translationLanguage" title="${uiLabelMap.translationLanguage}" sort-field="true"><display/></field>
-        <field name="lastUpdatedStamp" title="${uiLabelMap.LastUpdate}" sort-field="true"><display type="date-time"/></field>
+        <field name="lastUpdatedStamp" title="${uiLabelMap.languageDate}" sort-field="true"><display type="date-time"/></field>
         <field name="authorId" title="${uiLabelMap.authorId}"><display default-value="${userLogin.userLoginId}"/></field>
         <field name="editLanguage" title="${uiLabelMap.edit}" widget-style="buttontext">
             <hyperlink description="${languageName} ${uiLabelMap.edit}" target="EditLanguage" also-hidden="false">
@@ -295,14 +295,14 @@ under the License.
         <field name="statusId" title="${uiLabelMap.statusId}"><hidden/></field>
         <field name="languageCode" title="${uiLabelMap.languageCode}" required-field="true"><text/></field>
         <field name="countryCode" title="${uiLabelMap.countryCode}" required-field="true"><text/></field>
-        <field name="languageName" title="${uiLabelMap.FormFieldTitle_languageName}" required-field="true"><text/></field>
+        <field name="languageName" title="${uiLabelMap.languageName}" required-field="true"><text/></field>
         <field name="nativeLanguageName" title="${uiLabelMap.nativeLanguageName}" required-field="true"><text/></field>
         <field name="authorId" title="${uiLabelMap.authorId}"><hidden/></field>
-        <field name="description" title="${uiLabelMap.CommonDescription}"/>
+        <field name="description" title="${uiLabelMap.languageDescription}"/>
         <field name="languageDate" title="${uiLabelMap.languageDate}"><hidden/></field>
-        <field name="systemLanguage"><radio no-current-selected-key="N"><option key="Y"/><option key="N"/></radio></field>
-        <field name="translationLanguage"><radio no-current-selected-key="N"><option key="Y"/><option key="N"/></radio></field>
-        <field name="submitButton" use-when="language==null" title="${uiLabelMap.CommonCreate}"><submit button-type="button"/></field>
+        <field name="systemLanguage" title="${uiLabelMap.systemLanguage}"><radio no-current-selected-key="N"><option key="Y"/><option key="N"/></radio></field>
+        <field name="translationLanguage" title="${uiLabelMap.translationLanguage}"><radio no-current-selected-key="N"><option key="Y"/><option key="N"/></radio></field>
+        <field name="submitButton" use-when="language==null" title="${uiLabelMap.languageCreate}"><submit button-type="button"/></field>
         <field name="submitButton" use-when="language!=null" title="${uiLabelMap.CommonUpdate}"><submit button-type="button"/></field>
     </form>
 

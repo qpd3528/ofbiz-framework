@@ -10503,6 +10503,7 @@
         <value xml:lang="zh-TW">搜尋</value>
     </property>
     <property key="CommonSearchOptions">
+        <value xml:lang="ko">검 색</value>
         <value xml:lang="ar">خيارات البحث</value>
         <value xml:lang="cs">Možnosti vyhledávání</value>
         <value xml:lang="de">Suchoptionen</value>
@@ -10544,6 +10545,7 @@
         <value xml:lang="zh-TW">搜尋結果-</value>
     </property>
     <property key="CommonSearchResults">
+        <value xml:lang="ko">검 색 결 과</value>
         <value xml:lang="ar">نتائج البحث</value>
         <value xml:lang="cs">Výsledky vyhledávání</value>
         <value xml:lang="de">Suchergebnisse</value>

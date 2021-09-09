@@ -45,7 +45,7 @@ under the License.
                             <widgets>
                                 <decorator-screen name="FindScreenDecorator" location="component://common/widget/CommonScreens.xml">
                                     <decorator-section name="menu-bar">
-                                        <container style="button-bar"><link target="EditLanguageLayer" link-type="layered-modal" text="${uiLabelMap.LanguageNewLanguage}" style="buttontext create"/></container>
+                                        <container style="button-bar"><link target="EditLanguageLayer" link-type="layered-modal" text="${uiLabelMap.languageNewLanguage}" style="buttontext create"/></container>
                                     </decorator-section>
                                     <decorator-section name="search-options">
                                         <include-form name="FindLanguages" location="component://language/widget/language/LanguageForms.xml"/>

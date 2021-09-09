@@ -19,6 +19,72 @@
     under the License.
 -->
 <resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://ofbiz.apache.org/dtds/ofbiz-properties.xsd">
+
+    <property key="languageCode">
+        <value xml:lang="ko">언어 코드</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="countryCode">
+        <value xml:lang="ko">국가 코드</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="languageName">
+        <value xml:lang="ko">언어명</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="nativeLanguageName">
+        <value xml:lang="ko">원어 언어명</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="systemLanguage">
+        <value xml:lang="ko">시스템 언어</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="translationLanguage">
+        <value xml:lang="ko">번역 언어</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="languageCreate">
+        <value xml:lang="ko">생성</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="languageDescription">
+        <value xml:lang="ko">언어 설명</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="languageDate">
+        <value xml:lang="ko">수정일</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="languageNewLanguage">
+        <value xml:lang="ko">언어 생성</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="delete">
+        <value xml:lang="ko">삭제</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="languageY">
+        <value xml:lang="ko">사용</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="languageN">
+        <value xml:lang="ko">사용 안 함</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="languageSearch">
+        <value xml:lang="ko">검 색</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="authorId">
+        <value xml:lang="ko">작성자</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="edit">
+        <value xml:lang="ko">수정</value>
+        <value xml:lang="en"></value>
+    </property>
+
     <property key="ContentFopFonts">
         <value xml:lang="en">FOP fonts in a PDF</value>
         <value xml:lang="fr">Polices FOP dans un PDF</value>
@@ -488,6 +554,7 @@
         <value xml:lang="zh-TW">首先,你必須在資料項目元素內定義一個下拉元素,來修飾為下拉資料項目.</value>
     </property>
     <property key="LanguageLanguage">
+        <value xml:lang="ko">언어</value>
         <value xml:lang="en">Language</value>
         <value xml:lang="fr">Exemple</value>
         <value xml:lang="it">Esempio</value>
@@ -521,6 +588,7 @@
         <value xml:lang="zh-TW">範例特色識別</value>
     </property>
     <property key="LanguageLanguageId">
+        <value xml:lang="ko">언어 ID</value>
         <value xml:lang="en">Language ID</value>
         <value xml:lang="fr">Réf. exemple</value>
         <value xml:lang="it">Codice esempio</value>
@@ -1174,6 +1242,7 @@
     </property>
   <!-- Page Titles -->
     <property key="PageTitleFindLanguage">
+        <value xml:lang="ko">언어 검색</value>
         <value xml:lang="en">Find Language</value>
         <value xml:lang="fr">Recherche d'un exemple</value>
         <value xml:lang="it">Ricerca Esempio</value>

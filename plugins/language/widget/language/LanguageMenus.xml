@@ -24,33 +24,33 @@ under the License.
         <menu-item name="LanguageMenuItem" title="${uiLabelMap.LanguageLanguage}">
             <link target="FindLanguage"/>
         </menu-item>
-        <menu-item name="LanguageFeature" title="${uiLabelMap.LanguageFeature}">
-            <link target="FindLanguageFeature"/>
-        </menu-item>
-        <menu-item name="FormWidgetLanguages" title="${uiLabelMap.LanguageFormWidgetLanguages}">
-            <link target="FormWidgetLanguages"/>
-        </menu-item>
-        <menu-item name="AjaxLanguage" title="${uiLabelMap.LanguageAjaxLanguages}">
-            <link target="authview/findLanguageAjax"/>
-        </menu-item>
-        <menu-item name="portalPage" parent-portal-page-value="LANGUAGE"/>
-        <menu-item name="Dashboard" title="${uiLabelMap.LanguageDashboard}" align-style="opposed">
-            <link target="ManagePortalPages" link-type="anchor">
-                <parameter param-name="parentPortalPageId" value="LANGUAGE"/>
-            </link>
-        </menu-item>
-        <menu-item name="LanguageGeoLocation" title="${uiLabelMap.CommonGeoLocation}">
-            <link target="LanguageGeoLocationPointSet1"/>
-        </menu-item>
-        <menu-item name="LanguageCharts" title="${uiLabelMap.LanguageChart}">
-            <link target="LanguageBarChart"/>
-        </menu-item>
-        <menu-item name="LanguageCompleteFop" title="${uiLabelMap.ContentFopFonts}">
-                <link target="fonts.pdf" target-window="_BLANK"/>
-        </menu-item>
-        <menu-item name="LanguageCompoundWidgets" title="${uiLabelMap.LanguageCompoundWidgets}">
-                <link target="CompoundWidgets1"/>
-        </menu-item>
+<!--        <menu-item name="LanguageFeature" title="${uiLabelMap.LanguageFeature}">-->
+<!--            <link target="FindLanguageFeature"/>-->
+<!--        </menu-item>-->
+<!--        <menu-item name="FormWidgetLanguages" title="${uiLabelMap.LanguageFormWidgetLanguages}">-->
+<!--            <link target="FormWidgetLanguages"/>-->
+<!--        </menu-item>-->
+<!--        <menu-item name="AjaxLanguage" title="${uiLabelMap.LanguageAjaxLanguages}">-->
+<!--            <link target="authview/findLanguageAjax"/>-->
+<!--        </menu-item>-->
+<!--        <menu-item name="portalPage" parent-portal-page-value="LANGUAGE"/>-->
+<!--        <menu-item name="Dashboard" title="${uiLabelMap.LanguageDashboard}" align-style="opposed">-->
+<!--            <link target="ManagePortalPages" link-type="anchor">-->
+<!--                <parameter param-name="parentPortalPageId" value="LANGUAGE"/>-->
+<!--            </link>-->
+<!--        </menu-item>-->
+<!--        <menu-item name="LanguageGeoLocation" title="${uiLabelMap.CommonGeoLocation}">-->
+<!--            <link target="LanguageGeoLocationPointSet1"/>-->
+<!--        </menu-item>-->
+<!--        <menu-item name="LanguageCharts" title="${uiLabelMap.LanguageChart}">-->
+<!--            <link target="LanguageBarChart"/>-->
+<!--        </menu-item>-->
+<!--        <menu-item name="LanguageCompleteFop" title="${uiLabelMap.ContentFopFonts}">-->
+<!--                <link target="fonts.pdf" target-window="_BLANK"/>-->
+<!--        </menu-item>-->
+<!--        <menu-item name="LanguageCompoundWidgets" title="${uiLabelMap.LanguageCompoundWidgets}">-->
+<!--                <link target="CompoundWidgets1"/>-->
+<!--        </menu-item>-->
     </menu>
 
     <menu name="EditLanguage" extends="CommonTabBarMenu" extends-resource="component://common/widget/CommonMenus.xml">
