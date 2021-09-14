@@ -39,7 +39,7 @@ under the License.
         <permission-service service-name="languageGenericPermission" main-action="UPDATE"/>
         <auto-attributes include="pk" mode="IN" optional="false"/>
         <auto-attributes include="nonpk" mode="IN" optional="true"/>
-        <attribute name="oldStatusId" type="String" mode="OUT" optional="false"/>
+<!--        <attribute name="oldStatusId" type="String" mode="OUT" optional="false"/>-->
     </service>
     <service name="deleteLanguage" default-entity-name="Language" engine="entity-auto" invoke="delete" auth="true">
         <description>Delete a Language</description>

@@ -95,6 +95,7 @@ under the License.
 <!--            <key-map field-name="statusId"/>-->
 <!--        </relation>-->
 <!--    </entity>-->
+
     <entity entity-name="LanguageItem" package-name="org.apache.ofbiz.language.language" title="Language Item Entity">
         <field name="languageId" type="id"></field>
         <field name="languageItemSeqId" type="id"><description>secondary sequenced ID</description></field>
