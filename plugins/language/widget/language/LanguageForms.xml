@@ -55,7 +55,6 @@ under the License.
         <field name="noConditionFind"><hidden value="Y"/><!-- if this isn't there then with all fields empty no query will be done --></field>
 <!--        <field name="languageId" title="${uiLabelMap.LanguageLanguageId}"><text-find/></field>-->
         <field name="languageCode" title="${uiLabelMap.languageCode}"><text-find/></field>
-        <field name="countryCode" title="${uiLabelMap.countryCode}"><text-find/></field>
         <field name="languageName" title="${uiLabelMap.languageName}"><text-find/></field>
         <field name="nativeLanguageName" title="${uiLabelMap.nativeLanguageName}"><text-find/></field>
         <field name="systemLanguage" title="${uiLabelMap.systemLanguage}">
@@ -114,7 +113,6 @@ under the License.
         <alt-row-style use-when="'EXST_APPROVED'.equals(statusId)" style="Validate"/>
         <alt-row-style use-when="'EXST_CANCELLED'.equals(statusId)" style="Warn"/>
         <field name="languageCode" title="${uiLabelMap.languageCode}" sort-field="true"><display/></field>
-        <field name="countryCode" title="${uiLabelMap.countryCode}" sort-field="true"><display/></field>
         <field name="languageName" title="${uiLabelMap.languageName}"><display/></field>
         <field name="nativeLanguageName" title="${uiLabelMap.nativeLanguageName}"><display/></field>
         <field name="systemLanguage" title="${uiLabelMap.systemLanguage}" sort-field="true"><display/></field>
@@ -294,7 +292,6 @@ under the License.
         <field name="languageTypeId" title="${uiLabelMap.languageTypeId}"><hidden/></field>
         <field name="statusId" title="${uiLabelMap.statusId}"><hidden/></field>
         <field name="languageCode" title="${uiLabelMap.languageCode}" required-field="true"><text/></field>
-        <field name="countryCode" title="${uiLabelMap.countryCode}" required-field="true"><text/></field>
         <field name="languageName" title="${uiLabelMap.languageName}" required-field="true"><text/></field>
         <field name="nativeLanguageName" title="${uiLabelMap.nativeLanguageName}" required-field="true"><text/></field>
         <field name="authorId" title="${uiLabelMap.authorId}"><hidden/></field>
