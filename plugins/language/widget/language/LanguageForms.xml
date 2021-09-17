@@ -297,8 +297,8 @@ under the License.
         <field name="authorId" title="${uiLabelMap.authorId}"><hidden/></field>
         <field name="description" title="${uiLabelMap.languageDescription}"/>
         <field name="languageDate" title="${uiLabelMap.languageDate}"><hidden/></field>
-        <field name="systemLanguage" title="${uiLabelMap.systemLanguage}"><radio no-current-selected-key="N"><option key="Y"/><option key="N"/></radio></field>
-        <field name="translationLanguage" title="${uiLabelMap.translationLanguage}"><radio no-current-selected-key="N"><option key="Y"/><option key="N"/></radio></field>
+        <field name="systemLanguage" title="${uiLabelMap.systemLanguage}"><radio no-current-selected-key="N"><option key="Y" description="${uiLabelMap.languageY}"/><option key="N" description="${uiLabelMap.languageN}"/></radio></field>
+        <field name="translationLanguage" title="${uiLabelMap.translationLanguage}"><radio no-current-selected-key="N"><option key="Y" description="${uiLabelMap.languageY}"/><option key="N" description="${uiLabelMap.languageN}"/></radio></field>
         <field name="submitButton" use-when="language==null" title="${uiLabelMap.languageCreate}"><submit button-type="button"/></field>
         <field name="submitButton" use-when="language!=null" title="${uiLabelMap.CommonUpdate}"><submit button-type="button"/></field>
     </form>
