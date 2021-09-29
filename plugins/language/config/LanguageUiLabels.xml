@@ -84,6 +84,26 @@
         <value xml:lang="ko">수정</value>
         <value xml:lang="en"></value>
     </property>
+    <property key="laugnageStatus">
+        <value xml:lang="ko">학습 상태</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="sourceLanguage">
+        <value xml:lang="ko">출발 언어</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="targetLanguage">
+        <value xml:lang="ko">도착 언어</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="useLanguage">
+        <value xml:lang="ko">사용 여부</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
 
     <property key="ContentFopFonts">
         <value xml:lang="en">FOP fonts in a PDF</value>

@@ -55,15 +55,14 @@ under the License.
         <field name="noConditionFind"><hidden value="Y"/><!-- if this isn't there then with all fields empty no query will be done --></field>
 <!--        <field name="languageId" title="${uiLabelMap.LanguageLanguageId}"><text-find/></field>-->
         <field name="languageCode" title="${uiLabelMap.languageCode}"><text-find/></field>
-        <field name="languageName" title="${uiLabelMap.languageName}"><text-find/></field>
-        <field name="nativeLanguageName" title="${uiLabelMap.nativeLanguageName}"><text-find/></field>
-        <field name="systemLanguage" title="${uiLabelMap.systemLanguage}">
-            <check>
-                <option key="Y" description="${uiLabelMap.languageY}"/>
-                <option key="N" description="${uiLabelMap.languageN}"/>
-            </check>
+        <field name="sourceLanguage" title="${uiLabelMap.sourceLanguage}"><text-find/></field>
+        <field name="targetLanguage" title="${uiLabelMap.targetLanguage}"><text-find/></field>
+        <field name="statusId" title="${uiLabelMap.laugnageStatus}">
+            <drop-down allow-empty="true" current-description="">
+                <entity-options key-field-name="statusId" entity-name="LanguageStatusItem"/>
+            </drop-down>
         </field>
-        <field name="translationLanguage" title="${uiLabelMap.translationLanguage}">
+        <field name="useLanguage" title="${uiLabelMap.useLanguage}">
             <check>
                 <option key="Y" description="${uiLabelMap.languageY}"/>
                 <option key="N" description="${uiLabelMap.languageN}"/>
@@ -113,10 +112,11 @@ under the License.
         <alt-row-style use-when="'EXST_APPROVED'.equals(statusId)" style="Validate"/>
         <alt-row-style use-when="'EXST_CANCELLED'.equals(statusId)" style="Warn"/>
         <field name="languageCode" title="${uiLabelMap.languageCode}" sort-field="true"><display/></field>
-        <field name="languageName" title="${uiLabelMap.languageName}"><display/></field>
-        <field name="nativeLanguageName" title="${uiLabelMap.nativeLanguageName}"><display/></field>
-        <field name="systemLanguage" title="${uiLabelMap.systemLanguage}" sort-field="true"><display/></field>
-        <field name="translationLanguage" title="${uiLabelMap.translationLanguage}" sort-field="true"><display/></field>
+        <field name="sourceLanguage" title="${uiLabelMap.sourceLanguage}"><display/></field>
+        <field name="targetLanguage" title="${uiLabelMap.targetLanguage}"><display/></field>
+        <field name="targetLanguage" title="${uiLabelMap.systemLanguage}" sort-field="true"><display/></field>
+        <field name="statusId" title="${uiLabelMap.laugnageStatus}"><display-entity entity-name="StatusItem"/></field>
+        <field name="useLanguage" title="${uiLabelMap.useLanguage}" sort-field="true"><display/></field>
         <field name="lastUpdatedStamp" title="${uiLabelMap.languageDate}" sort-field="true"><display type="date-time"/></field>
         <field name="authorId" title="${uiLabelMap.authorId}"><display default-value="${userLogin.userLoginId}"/></field>
         <field name="editLanguage" title="${uiLabelMap.edit}" widget-style="buttontext">
@@ -290,15 +290,26 @@ under the License.
         <field use-when="language==null @and languageId==null" name="languageId" title="${uiLabelMap.LanguageLanguageId}"><ignored/></field>
         <field use-when="language==null @and languageId!=null" name="languageId" title="${uiLabelMap.LanguageLanguageId}"><display description="${uiLabelMap.CommonCannotBeFound}: [${languageId}]" also-hidden="false"/></field>
         <field name="languageTypeId" title="${uiLabelMap.languageTypeId}"><hidden/></field>
-        <field name="statusId" title="${uiLabelMap.statusId}"><hidden/></field>
+        <field name="statusId"  use-when="language==null" title="${uiLabelMap.laugnageStatus}" required-field="true">
+            <drop-down allow-empty="false">
+                <entity-options entity-name="LanguageStatusItem"/>
+            </drop-down>
+        </field>
+        <field name="statusId" use-when="language!=null" title="${uiLabelMap.laugnageStatus}" required-field="true">
+            <drop-down allow-empty="false" current="first-in-list" current-description="${currentStatus.description}">
+                <option key="${currentStatus.statusId}" description="${currentStatus.description}"/>
+                <entity-options entity-name="StatusValidChangeToDetail" key-field-name="statusIdTo" description="${transitionName} (${description})">
+                    <entity-constraint name="statusId" env-name="language.statusId"/>
+                </entity-options>
+            </drop-down>
+        </field>
         <field name="languageCode" title="${uiLabelMap.languageCode}" required-field="true"><text/></field>
-        <field name="languageName" title="${uiLabelMap.languageName}" required-field="true"><text/></field>
-        <field name="nativeLanguageName" title="${uiLabelMap.nativeLanguageName}" required-field="true"><text/></field>
+        <field name="sourceLanguage" title="${uiLabelMap.sourceLanguage}" required-field="true"><text/></field>
+        <field name="targetLanguage" title="${uiLabelMap.targetLanguage}" required-field="true"><text/></field>
         <field name="authorId" title="${uiLabelMap.authorId}"><hidden/></field>
         <field name="description" title="${uiLabelMap.languageDescription}"/>
         <field name="languageDate" title="${uiLabelMap.languageDate}"><hidden/></field>
-        <field name="systemLanguage" title="${uiLabelMap.systemLanguage}"><radio no-current-selected-key="N"><option key="Y" description="${uiLabelMap.languageY}"/><option key="N" description="${uiLabelMap.languageN}"/></radio></field>
-        <field name="translationLanguage" title="${uiLabelMap.translationLanguage}"><radio no-current-selected-key="N"><option key="Y" description="${uiLabelMap.languageY}"/><option key="N" description="${uiLabelMap.languageN}"/></radio></field>
+        <field name="useLanguage" title="${uiLabelMap.useLanguage}"><radio no-current-selected-key="N"><option key="Y" description="${uiLabelMap.languageY}"/><option key="N" description="${uiLabelMap.languageN}"/></radio></field>
         <field name="submitButton" use-when="language==null" title="${uiLabelMap.languageCreate}"><submit button-type="button"/></field>
         <field name="submitButton" use-when="language!=null" title="${uiLabelMap.CommonUpdate}"><submit button-type="button"/></field>
     </form>
@@ -307,7 +318,7 @@ under the License.
         have these settings. -->
     <form name="EditLanguageBackgroundSubmit" type="single" extends="EditLanguage" target="updateLanguageAjax">
         <alt-target use-when="ajaxLanguage==null" target="createLanguageAjax"/>
-        <field name="statusId" use-when="ajaxLanguage==null" title="${uiLabelMap.CommonStatus}" id-name="statusId">
+        <field name="statusId" use-when="ajaxLanguage==null" title="${uiLabelMap.laugnageStatus}" id-name="statusId">
             <drop-down allow-empty="false">
                 <entity-options entity-name="LanguageStatusItem"/>
             </drop-down>
