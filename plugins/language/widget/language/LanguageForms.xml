@@ -114,7 +114,6 @@ under the License.
         <field name="languageCode" title="${uiLabelMap.languageCode}" sort-field="true"><display/></field>
         <field name="sourceLanguage" title="${uiLabelMap.sourceLanguage}"><display/></field>
         <field name="targetLanguage" title="${uiLabelMap.targetLanguage}"><display/></field>
-        <field name="targetLanguage" title="${uiLabelMap.systemLanguage}" sort-field="true"><display/></field>
         <field name="statusId" title="${uiLabelMap.laugnageStatus}"><display-entity entity-name="StatusItem"/></field>
         <field name="useLanguage" title="${uiLabelMap.useLanguage}" sort-field="true"><display/></field>
         <field name="lastUpdatedStamp" title="${uiLabelMap.languageDate}" sort-field="true"><display type="date-time"/></field>
