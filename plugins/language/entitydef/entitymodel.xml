@@ -43,9 +43,9 @@ under the License.
         <field name="languageId" type="id"><description>primary sequenced ID</description></field><!-- ID -->
         <field name="languageTypeId" type="id"></field>
         <field name="statusId" type="id"></field><!-- 학습 상태 -->
-        <field name="languageCode" type="id"></field><!-- 언어 코드 -->
-        <field name="sourceLanguage" type="name"></field><!-- 출발 언어 -->
-        <field name="targetLanguage" type="name"></field><!-- 도착 언어 -->
+        <field name="languageName" type="name"></field><!-- 언어명(소스언어 - 타겟언어)로 표기됨 -->
+        <field name="sourceLanguage" type="id"></field><!-- 출발 언어(언어코드) -->
+        <field name="targetLanguage" type="id"></field><!-- 도착 언어(언어코드) -->
         <field name="useLanguage" type="indicator"></field><!-- 사용 여부 -->
         <field name="authorId" type="name"></field><!-- 수정자 -->
         <field name="description" type="description"></field><!-- 설명 -->

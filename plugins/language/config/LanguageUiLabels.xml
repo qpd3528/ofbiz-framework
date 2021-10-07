@@ -24,6 +24,10 @@
         <value xml:lang="ko">언어 코드</value>
         <value xml:lang="en"></value>
     </property>
+    <property key="languageName">
+        <value xml:lang="ko">언어명(출발 - 도착)</value>
+        <value xml:lang="en"></value>
+    </property>
     <property key="countryCode">
         <value xml:lang="ko">국가 코드</value>
         <value xml:lang="en"></value>
@@ -98,6 +102,30 @@
     </property>
     <property key="useLanguage">
         <value xml:lang="ko">사용 여부</value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
         <value xml:lang="en"></value>
     </property>
     <property key="">
@@ -1331,4 +1359,256 @@
         <value xml:lang="zh">你修改了选择框中的值</value>
         <value xml:lang="zh-TW">你修改了選擇框中的值</value>
     </property>
+
+    <!-- 언어 리스트 (코드 -> 언어명) -->
+
+    <!-- 브릿 적용중인 50개 언어 -->
+    <property key="ko">
+        <value xml:lang="ko">한국어</value>
+        <value xml:lang="en">Korean</value>
+    </property>
+    <property key="en">
+        <value xml:lang="ko">영어</value>
+        <value xml:lang="en">English</value>
+    </property>
+    <property key="zh-CN">
+        <value xml:lang="ko">중국어(간체)</value>
+        <value xml:lang="en">Chinese (Simplified)</value>
+    </property>
+    <property key="zh-TW">
+        <value xml:lang="ko">중국어(번체)</value>
+        <value xml:lang="en">Chinese (Traditional)</value>
+    </property>
+    <property key="es">
+        <value xml:lang="ko">스페인어</value>
+        <value xml:lang="en">Spanish</value>
+    </property>
+    <property key="ar">
+        <value xml:lang="ko">아랍어</value>
+        <value xml:lang="en">Arabic</value>
+    </property>
+    <property key="hi">
+        <value xml:lang="ko">힌디어</value>
+        <value xml:lang="en">Hindi</value>
+    </property>
+    <property key="bn">
+        <value xml:lang="ko">벵골어</value>
+        <value xml:lang="en">Bengali</value>
+    </property>
+    <property key="pt">
+        <value xml:lang="ko">포르투갈어</value>
+        <value xml:lang="en">Portuguese</value>
+    </property>
+    <property key="ru">
+        <value xml:lang="ko">러시아어</value>
+        <value xml:lang="en">Russian</value>
+    </property>
+    <property key="ja">
+        <value xml:lang="ko">일본어</value>
+        <value xml:lang="en">Japanese</value>
+    </property>
+    <property key="jv">
+        <value xml:lang="ko">자바어</value>
+        <value xml:lang="en">Javanese</value>
+    </property>
+    <property key="de">
+        <value xml:lang="ko">독일어</value>
+        <value xml:lang="en">German</value>
+    </property>
+    <property key="fr">
+        <value xml:lang="ko">프랑스어</value>
+        <value xml:lang="en">French</value>
+    </property>
+    <property key="te">
+        <value xml:lang="ko">텔루구어</value>
+        <value xml:lang="en">Telugu</value>
+    </property>
+    <property key="mr">
+        <value xml:lang="ko">마라타어</value>
+        <value xml:lang="en">Marathi</value>
+    </property>
+    <property key="tr">
+        <value xml:lang="ko">터키어</value>
+        <value xml:lang="en">Turkish</value>
+    </property>
+    <property key="ur">
+        <value xml:lang="ko">우르두어</value>
+        <value xml:lang="en">Urdu</value>
+    </property>
+    <property key="vi">
+        <value xml:lang="ko">베트남어</value>
+        <value xml:lang="en">Vietnamese</value>
+    </property>
+    <property key="ta">
+        <value xml:lang="ko">타밀어</value>
+        <value xml:lang="en">Tamil</value>
+    </property>
+    <property key="it">
+        <value xml:lang="ko">이탈리아어</value>
+        <value xml:lang="en">Italian</value>
+    </property>
+    <property key="fa">
+        <value xml:lang="ko">페르시아어</value>
+        <value xml:lang="en">Persian</value>
+    </property>
+    <property key="ms">
+        <value xml:lang="ko">말레이어</value>
+        <value xml:lang="en">Malay</value>
+    </property>
+    <property key="id">
+        <value xml:lang="ko">인도네시아어</value>
+        <value xml:lang="en">Indonesian</value>
+    </property>
+    <property key="tl">
+        <value xml:lang="ko">타갈로그어</value>
+        <value xml:lang="en">Tagalog</value>
+    </property>
+    <property key="th">
+        <value xml:lang="ko">태국어</value>
+        <value xml:lang="en">Thai</value>
+    </property>
+    <property key="fi">
+        <value xml:lang="ko">핀란드어</value>
+        <value xml:lang="en">Finnish</value>
+    </property>
+    <property key="pl">
+        <value xml:lang="ko">폴란드어</value>
+        <value xml:lang="en">Polish</value>
+    </property>
+    <property key="cs">
+        <value xml:lang="ko">체코어</value>
+        <value xml:lang="en">Czech</value>
+    </property>
+    <property key="sv">
+        <value xml:lang="ko">스웨덴어</value>
+        <value xml:lang="en">Swedish</value>
+    </property>
+    <property key="sw">
+        <value xml:lang="ko">스와힐리어</value>
+        <value xml:lang="en">Swahili</value>
+    </property>
+    <property key="nl">
+        <value xml:lang="ko">네덜란드어</value>
+        <value xml:lang="en">Dutch</value>
+    </property>
+    <property key="mn">
+        <value xml:lang="ko">몽골어</value>
+        <value xml:lang="en">Mongolian</value>
+    </property>
+    <property key="gu">
+        <value xml:lang="ko">구자라트어</value>
+        <value xml:lang="en">Gujarati</value>
+    </property>
+    <property key="az">
+        <value xml:lang="ko">아제르바이잔어</value>
+        <value xml:lang="en">Azerbaijani</value>
+    </property>
+    <property key="el">
+        <value xml:lang="ko">그리스어</value>
+        <value xml:lang="en">Greek</value>
+    </property>
+    <property key="ro">
+        <value xml:lang="ko">루마니아어</value>
+        <value xml:lang="en">Romanian</value>
+    </property>
+    <property key="kk">
+        <value xml:lang="ko">카자흐어</value>
+        <value xml:lang="en">Kazakh</value>
+    </property>
+    <property key="uk">
+        <value xml:lang="ko">우크라이나어</value>
+        <value xml:lang="en">Ukrainian</value>
+    </property>
+    <property key="ku">
+        <value xml:lang="ko">쿠르드어</value>
+        <value xml:lang="en">Kurdish</value>
+    </property>
+    <property key="kn">
+        <value xml:lang="ko">칸나다어</value>
+        <value xml:lang="en">Kannada</value>
+    </property>
+    <property key="he">
+        <value xml:lang="ko">히브리어</value>
+        <value xml:lang="en">Hebrew</value>
+    </property>
+    <property key="hu">
+        <value xml:lang="ko">헝가리어</value>
+        <value xml:lang="en">Hungarian</value>
+    </property>
+    <property key="pa">
+        <value xml:lang="ko">펀자브어</value>
+        <value xml:lang="en">Punjabi</value>
+    </property>
+    <property key="ps">
+        <value xml:lang="ko">파슈토어</value>
+        <value xml:lang="en">Pashto</value>
+    </property>
+    <property key="ml">
+        <value xml:lang="ko">말라얄람어</value>
+        <value xml:lang="en">Malayalam</value>
+    </property>
+    <property key="su">
+        <value xml:lang="ko">순다어</value>
+        <value xml:lang="en">Sundanese</value>
+    </property>
+    <property key="ha">
+        <value xml:lang="ko">하우사어</value>
+        <value xml:lang="en">Hausa</value>
+    </property>
+    <property key="or">
+        <value xml:lang="ko">오리야어</value>
+        <value xml:lang="en">Odia</value>
+    </property>
+    <property key="my">
+        <value xml:lang="ko">미얀마어</value>
+        <value xml:lang="en">Myanmar</value>
+    </property>
+
+    <!-- 추가 예정 언어 -->
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+    <property key="">
+        <value xml:lang="ko"></value>
+        <value xml:lang="en"></value>
+    </property>
+
 </resource>
+

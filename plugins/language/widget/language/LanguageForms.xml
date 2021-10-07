@@ -54,7 +54,7 @@ under the License.
     <form name="FindLanguages" type="single" target="FindLanguage" default-entity-name="Language">
         <field name="noConditionFind"><hidden value="Y"/><!-- if this isn't there then with all fields empty no query will be done --></field>
 <!--        <field name="languageId" title="${uiLabelMap.LanguageLanguageId}"><text-find/></field>-->
-        <field name="languageCode" title="${uiLabelMap.languageCode}"><text-find/></field>
+<!--        <field name="languageName" title="${uiLabelMap.languageName}"><text-find/></field>--><!-- 언어생성시에 이름을 입력받지 않아서 데이터가 Null임 -->
         <field name="sourceLanguage" title="${uiLabelMap.sourceLanguage}"><text-find/></field>
         <field name="targetLanguage" title="${uiLabelMap.targetLanguage}"><text-find/></field>
         <field name="statusId" title="${uiLabelMap.laugnageStatus}">
@@ -111,7 +111,7 @@ under the License.
         </actions>
         <alt-row-style use-when="'EXST_APPROVED'.equals(statusId)" style="Validate"/>
         <alt-row-style use-when="'EXST_CANCELLED'.equals(statusId)" style="Warn"/>
-        <field name="languageCode" title="${uiLabelMap.languageCode}" sort-field="true"><display/></field>
+        <field name="languageName" title="${uiLabelMap.languageName}" sort-field="true"><display description="${uiLabelMap.${sourceLanguage}} - ${uiLabelMap.${targetLanguage}}"/></field>
         <field name="sourceLanguage" title="${uiLabelMap.sourceLanguage}"><display/></field>
         <field name="targetLanguage" title="${uiLabelMap.targetLanguage}"><display/></field>
         <field name="statusId" title="${uiLabelMap.laugnageStatus}"><display-entity entity-name="StatusItem"/></field>
@@ -119,7 +119,7 @@ under the License.
         <field name="lastUpdatedStamp" title="${uiLabelMap.languageDate}" sort-field="true"><display type="date-time"/></field>
         <field name="authorId" title="${uiLabelMap.authorId}"><display default-value="${userLogin.userLoginId}"/></field>
         <field name="editLanguage" title="${uiLabelMap.edit}" widget-style="buttontext">
-            <hyperlink description="${languageName} ${uiLabelMap.edit}" target="EditLanguage" also-hidden="false">
+            <hyperlink description="[${uiLabelMap.${sourceLanguage}} - ${uiLabelMap.${targetLanguage}}] ${uiLabelMap.edit}" target="EditLanguage" also-hidden="false">
                 <parameter param-name="languageId"/>
             </hyperlink>
         </field>
@@ -302,7 +302,7 @@ under the License.
                 </entity-options>
             </drop-down>
         </field>
-        <field name="languageCode" title="${uiLabelMap.languageCode}" required-field="true"><text/></field>
+        <field name="languageName" title="${uiLabelMap.languageName}" required-field="true"><hidden/></field>
         <field name="sourceLanguage" title="${uiLabelMap.sourceLanguage}" required-field="true"><text/></field>
         <field name="targetLanguage" title="${uiLabelMap.targetLanguage}" required-field="true"><text/></field>
         <field name="authorId" title="${uiLabelMap.authorId}"><hidden/></field>
