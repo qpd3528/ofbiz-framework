@@ -37,7 +37,8 @@ under the License.
             title="REST API"
             server="default-server"
             location="webapp/rest-api"
-            mount-point="/rest"/>
+            mount-point="/rest"
+            app-bar-display="false"/>
             
     <webapp name="api-docs"
             title="REST API Docs"

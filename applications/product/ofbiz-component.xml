@@ -92,5 +92,6 @@ under the License.
         location="webapp/facility"
         base-permission="OFBTOOLS,FACILITY"
         app-shortcut-screen="component://product/widget/facility/FacilityScreens.xml#ShortcutApp"
-        mount-point="/facility"/>
+        mount-point="/facility"
+        app-bar-display="false"/>
 </ofbiz-component>

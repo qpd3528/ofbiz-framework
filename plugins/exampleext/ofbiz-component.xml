@@ -30,5 +30,6 @@ under the License.
         server="default-server"
         location="webapp/exampleext"
         base-permission="OFBTOOLS,EXAMPLE"
-        mount-point="/exampleext"/>
+        mount-point="/exampleext"
+        app-bar-display="false"/>
 </ofbiz-component>

@@ -50,7 +50,7 @@ under the License.
     <!-- web applications; will be mounted when using the embedded container -->
     <webapp name="language"
         title="Language"
-        position="26"
+        position="27"
         menu-name="secondary"
         server="default-server"
         location="webapp/language"
