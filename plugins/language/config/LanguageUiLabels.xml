@@ -104,8 +104,8 @@
         <value xml:lang="ko">사용 여부</value>
         <value xml:lang="en"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
+    <property key="languageTypeId">
+        <value xml:lang="ko">언어 종류</value>
         <value xml:lang="en"></value>
     </property>
     <property key="">
@@ -1371,11 +1371,11 @@
         <value xml:lang="ko">영어</value>
         <value xml:lang="en">English</value>
     </property>
-    <property key="zh-CN">
+    <property key="zhCN">
         <value xml:lang="ko">중국어(간체)</value>
         <value xml:lang="en">Chinese (Simplified)</value>
     </property>
-    <property key="zh-TW">
+    <property key="zhTW">
         <value xml:lang="ko">중국어(번체)</value>
         <value xml:lang="en">Chinese (Traditional)</value>
     </property>
