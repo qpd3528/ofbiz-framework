@@ -59,6 +59,10 @@ under the License.
         </relation>
     </entity>
 
+    <entity entity-name="SystemLanguage" package-name="org.apache.ofbiz.language.language" title="System Language Entity">
+
+    </entity>
+
 
 <!--    <entity entity-name="Language" package-name="org.apache.ofbiz.language.language" title="Language Entity">-->
 <!--        <field name="languageId" type="id"><description>primary sequenced ID</description></field>&lt;!&ndash; ID &ndash;&gt;-->

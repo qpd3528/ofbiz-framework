@@ -46,6 +46,7 @@ under the License.
 
     <!-- Language Requests -->
     <request-map uri="FindLanguage"><security https="true" auth="true"/><response name="success" type="view" value="FindLanguage"/></request-map>
+    <request-map uri="FindSystemLanguage"><security https="true" auth="true"/><response name="success" type="view" value="FindSystemLanguage"/></request-map>
     <request-map uri="EditLanguage"><security https="true" auth="true"/><response name="success" type="view" value="EditLanguage"/></request-map>
     <request-map uri="EditLanguageLayer"><security https="true" auth="true"/><response name="success" type="view" value="EditLanguageLayer"/></request-map>
     <request-map uri="LanguageReportHtml"><security https="true" auth="true"/><response name="success" type="view" value="LanguageReportHtml"/></request-map>
@@ -252,6 +253,7 @@ under the License.
     <view-map name="main" type="screen" page="component://language/widget/language/CommonScreens.xml#main"/>
 
     <view-map name="FindLanguage" type="screen" page="component://language/widget/language/LanguageScreens.xml#FindLanguage"/>
+    <view-map name="FindSystemLanguage" type="screen" page="component://language/widget/language/LanguageScreens.xml#FindSystemLanguage"/>
     <view-map name="EditLanguage" type="screen" page="component://language/widget/language/LanguageScreens.xml#EditLanguage"/>
     <view-map name="EditLanguageLayer" type="screen" page="component://language/widget/language/LanguageScreens.xml#EditLanguageLayer"/>
     <view-map name="EditLanguageItems" type="screen" page="component://language/widget/language/LanguageScreens.xml#EditLanguageItems"/>

@@ -71,6 +71,26 @@ under the License.
         <field name="searchButton" title="${uiLabelMap.languageSearch}"><submit/></field>
     </form>
 
+    <form name="FindSystemLanguages" type="single" target="FindLanguage" default-entity-name="Language">
+        <field name="noConditionFind"><hidden value="Y"/><!-- if this isn't there then with all fields empty no query will be done --></field>
+        <!--        <field name="languageId" title="${uiLabelMap.LanguageLanguageId}"><text-find/></field>-->
+        <!--        <field name="languageName" title="${uiLabelMap.languageName}"><text-find/></field>--><!-- 언어생성시에 이름을 입력받지 않아서 데이터가 Null임 -->
+        <field name="sourceLanguage" title="${uiLabelMap.sourceLanguage}"><text-find/></field>
+        <field name="targetLanguage" title="${uiLabelMap.targetLanguage}"><text-find/></field>
+        <field name="statusId" title="${uiLabelMap.laugnageStatus}">
+            <drop-down allow-empty="true" current-description="">
+                <entity-options key-field-name="statusId" entity-name="LanguageStatusItem"/>
+            </drop-down>
+        </field>
+        <field name="useLanguage" title="${uiLabelMap.useLanguage}">
+            <check>
+                <option key="Y" description="${uiLabelMap.languageY}"/>
+                <option key="N" description="${uiLabelMap.languageN}"/>
+            </check>
+        </field>
+        <field name="searchButton" title="${uiLabelMap.languageSearch}"><submit/></field>
+    </form>
+
 <!--    <grid name="ListLanguages" list-name="listIt" paginate-target="FindLanguage" default-entity-name="Language" separate-columns="true"-->
 <!--        odd-row-style="alternate-row" header-row-style="header-row-2" default-table-style="basic-table hover-bar">-->
 <!--        <actions>-->
@@ -98,6 +118,39 @@ under the License.
 <!--    </grid>-->
 
     <grid name="ListLanguages" list-name="listIt" paginate-target="FindLanguage" default-entity-name="Language" separate-columns="true"
+          odd-row-style="alternate-row" header-row-style="header-row-2" default-table-style="basic-table hover-bar">
+        <actions>
+            <service service-name="performFind" result-map="result" result-map-list="listIt">
+                <field-map field-name="inputFields" from-field="languageCtx"/>
+                <field-map field-name="entityName" value="Language"/>
+                <field-map field-name="orderBy" from-field="parameters.sortField"/>
+                <field-map field-name="viewIndex" from-field="viewIndex"/>
+                <field-map field-name="viewSize" from-field="viewSize"/>
+            </service>
+            <set field="sortField" from-field="parameters.sortField"/>
+        </actions>
+        <alt-row-style use-when="'EXST_APPROVED'.equals(statusId)" style="Validate"/>
+        <alt-row-style use-when="'EXST_CANCELLED'.equals(statusId)" style="Warn"/>
+        <field name="languageName" title="${uiLabelMap.languageName}" sort-field="true"><display description="${uiLabelMap.${sourceLanguage}} - ${uiLabelMap.${targetLanguage}}"/></field>
+        <field name="sourceLanguage" title="${uiLabelMap.sourceLanguage}"><display/></field>
+        <field name="targetLanguage" title="${uiLabelMap.targetLanguage}"><display/></field>
+        <field name="statusId" title="${uiLabelMap.laugnageStatus}"><display-entity entity-name="StatusItem"/></field>
+        <field name="useLanguage" title="${uiLabelMap.useLanguage}" sort-field="true"><display/></field>
+        <field name="lastUpdatedStamp" title="${uiLabelMap.languageDate}" sort-field="true"><display type="date-time"/></field>
+        <field name="authorId" title="${uiLabelMap.authorId}"><display default-value="${userLogin.userLoginId}"/></field>
+        <field name="editLanguage" title="${uiLabelMap.edit}" widget-style="buttontext">
+            <hyperlink description="[${uiLabelMap.${sourceLanguage}} - ${uiLabelMap.${targetLanguage}}] ${uiLabelMap.edit}" target="EditLanguage" also-hidden="false">
+                <parameter param-name="languageId"/>
+            </hyperlink>
+        </field>
+        <field name="delete" title="${uiLabelMap.delete}" widget-style="buttontext">
+            <hyperlink description="${uiLabelMap.delete}" target="deleteLanguage" also-hidden="false" confirmation-message="${languageName}를 삭제하시겠습니까?">
+                <parameter param-name="languageId"/>
+            </hyperlink>
+        </field>
+    </grid>
+
+    <grid name="ListSystemLanguages" list-name="listIt" paginate-target="FindLanguage" default-entity-name="Language" separate-columns="true"
           odd-row-style="alternate-row" header-row-style="header-row-2" default-table-style="basic-table hover-bar">
         <actions>
             <service service-name="performFind" result-map="result" result-map-list="listIt">

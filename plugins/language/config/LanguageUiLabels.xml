@@ -108,13 +108,13 @@
         <value xml:lang="ko">언어 종류</value>
         <value xml:lang="en"></value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
+    <property key="TranslationLanguage">
+        <value xml:lang="ko">번역 언어</value>
+        <value xml:lang="en">Translation Language</value>
     </property>
-    <property key="">
-        <value xml:lang="ko"></value>
-        <value xml:lang="en"></value>
+    <property key="SystemLanguage">
+        <value xml:lang="ko">시스템 언어</value>
+        <value xml:lang="en">System Language</value>
     </property>
     <property key="">
         <value xml:lang="ko"></value>

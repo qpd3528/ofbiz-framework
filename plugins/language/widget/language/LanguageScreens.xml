@@ -34,6 +34,7 @@ under the License.
                     else if (parameters.listOtherElements == 'features') return 'ListLanguagesWithFeatures';
                     else if (parameters.listOtherElements == 'status') return 'ListLanguagesWithStatus';
                     else return 'ListLanguages'}"/>
+                <set field="tabButtonItem" value="FindLanguage"/>
             </actions>
             <widgets>
                 <decorator-screen name="main-decorator" location="${parameters.mainDecoratorLocation}">
@@ -43,12 +44,58 @@ under the License.
                                 <if-has-permission permission="LANGUAGE" action="_VIEW"/>
                             </condition>
                             <widgets>
+                                <include-menu name="LanguageMenuItem" location="component://language/widget/language/LanguageMenus.xml"/>
                                 <decorator-screen name="FindScreenDecorator" location="component://common/widget/CommonScreens.xml">
                                     <decorator-section name="menu-bar">
                                         <container style="button-bar"><link target="EditLanguageLayer" link-type="layered-modal" text="${uiLabelMap.languageNewLanguage}" style="buttontext create"/></container>
                                     </decorator-section>
                                     <decorator-section name="search-options">
                                         <include-form name="FindLanguages" location="component://language/widget/language/LanguageForms.xml"/>
+                                    </decorator-section>
+                                    <decorator-section name="search-results">
+                                        <include-grid name="${formLanguageListName}" location="component://language/widget/language/LanguageForms.xml"/>
+                                    </decorator-section>
+                                </decorator-screen>
+                            </widgets>
+                            <fail-widgets>
+                                <label style="h3">${uiLabelMap.LanguageViewPermissionError}</label>
+                            </fail-widgets>
+                        </section>
+                    </decorator-section>
+                </decorator-screen>
+            </widgets>
+        </section>
+    </screen>
+
+    <screen name="FindSystemLanguage">
+        <section>
+            <actions>
+                <set field="headerItem" value="LanguageMenuItem"/>
+                <set field="helpAnchor" value="_the_language_main_page"/>
+                <set field="titleProperty" value="PageTitleFindLanguage"/>
+                <set field="languageCtx" from-field="parameters"/>
+                <set field="formLanguageListName" value="${groovy:
+                    if (parameters.listOtherElements == 'items') return 'ListLanguagesWithItems';
+                    else if (parameters.listOtherElements == 'features') return 'ListLanguagesWithFeatures';
+                    else if (parameters.listOtherElements == 'status') return 'ListLanguagesWithStatus';
+                    else return 'ListSystemLanguages'}"/>
+                <set field="tabButtonItem" value="SystemLanguage"/>
+            </actions>
+            <widgets>
+                <decorator-screen name="main-decorator" location="${parameters.mainDecoratorLocation}">
+                    <decorator-section name="body">
+                        <section>
+                            <condition>
+                                <if-has-permission permission="LANGUAGE" action="_VIEW"/>
+                            </condition>
+                            <widgets>
+                                <include-menu name="LanguageMenuItem" location="component://language/widget/language/LanguageMenus.xml"/>
+                                <decorator-screen name="FindScreenDecorator" location="component://common/widget/CommonScreens.xml">
+                                    <decorator-section name="menu-bar">
+                                        <container style="button-bar"><link target="EditLanguageLayer" link-type="layered-modal" text="${uiLabelMap.languageNewLanguage}" style="buttontext create"/></container>
+                                    </decorator-section>
+                                    <decorator-section name="search-options">
+                                        <include-form name="FindSystemLanguages" location="component://language/widget/language/LanguageForms.xml"/>
                                     </decorator-section>
                                     <decorator-section name="search-results">
                                         <include-grid name="${formLanguageListName}" location="component://language/widget/language/LanguageForms.xml"/>
