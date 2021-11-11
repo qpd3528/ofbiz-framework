@@ -43,7 +43,7 @@ under the License.
         <alias name="statusDelay">
             <complex-alias operator="-">
                 <complex-alias-field entity-alias="EXST" field="statusDate"/>
-                <complex-alias-field entity-alias="EXPL" field="languageDate"/>
+<!--                <complex-alias-field entity-alias="EXPL" field="languageDate"/>-->
             </complex-alias>
         </alias>
         <view-link entity-alias="EXPL" rel-entity-alias="EXST">
